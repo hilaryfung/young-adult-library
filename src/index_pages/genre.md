@@ -10,43 +10,43 @@ navText: Genre
 ### Action and adventure
 
 <ul>
-  <li>Light from Uncommon Stars by Ryka Aoki (print)</li>
+  <li><a href="{{ '/light-from-uncommon-stars' | url }}"><em>Light from Uncommon Stars</em></a> by Ryka Aoki (print)</li>
 </ul> 
 
 ### Coming of age
 
 <ul>
-  <li>Light from Uncommon Stars by Ryka Aoki (print)</li>
+  <li><a href="{{ '/light-from-uncommon-stars' | url }}"><em>Light from Uncommon Stars</em></a> by Ryka Aoki (print)</li>
 </ul> 
 
 ### Fantasy and magical realism
 
 <ul>
-  <li>Light from Uncommon Stars by Ryka Aoki (print)</li>
+  <li><a href="{{ '/light-from-uncommon-stars' | url }}"><em>Light from Uncommon Stars</em></a> by Ryka Aoki (print)</li>
 </ul> 
 
 ### Fiction
 
 <ul>
-  <li>Light from Uncommon Stars by Ryka Aoki (print)</li>
+  <li><a href="{{ '/light-from-uncommon-stars' | url }}"><em>Light from Uncommon Stars</em></a> by Ryka Aoki (print)</li>
 </ul> 
 
 ### LGBTQ+ literature
 
 <ul>
-  <li>Light from Uncommon Stars by Ryka Aoki (print)</li>
+  <li><a href="{{ '/light-from-uncommon-stars' | url }}"><em>Light from Uncommon Stars</em></a> by Ryka Aoki (print)</li>
 </ul> 
 
 ### Romance
 
 <ul>
-  <li>Light from Uncommon Stars by Ryka Aoki (print)</li>
+  <li><a href="{{ '/light-from-uncommon-stars' | url }}"><em>Light from Uncommon Stars</em></a> by Ryka Aoki (print)</li>
 </ul> 
 
 ### Science fiction and speculative fiction
 
 <ul>
-  <li>Light from Uncommon Stars by Ryka Aoki (print)</li>
+  <li><a href="{{ '/light-from-uncommon-stars' | url }}"><em>Light from Uncommon Stars</em></a> by Ryka Aoki (print)</li>
 </ul> 
 
 ## TV, Film, Music, Games, and Podcasts
@@ -54,5 +54,5 @@ navText: Genre
 ### Rock
 
 <ul>
-  <li>Planet You Forgot Me by Leyla Ebrahimi</li>
+  <li><a href="{{ '/planet-you-forgot-me' | url }}"><em>Planet You Forgot Me</em></a> by Leyla Ebrahimi</li>
 </ul> 

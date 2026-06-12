@@ -7,8 +7,8 @@ navText: Format
 
 ## Books - print
 
-* _Light From Uncommon Stars_ by Ryka Aoki
+* <a href="{{ '/light-from-uncommon-stars' | url }}">_Light From Uncommon Stars_</a> by Ryka Aoki
 
 ## Musical albums
 
-* _Planet You Forgot Me_ by Leyla Ebrahimi
+* <a href="{{ '/planet-you-forgot-me' | url }}">_Planet You Forgot Me_</a> by Leyla Ebrahimi
