@@ -1,6 +1,5 @@
 ---
 title: Light From Uncommon Stars
-fileSlug: light-from-uncommon-stars
 ---
 
 # Light From Uncommon Stars

@@ -1,0 +1,8 @@
+<nav class="top-nav">
+  <a href="/" class="nav__hed">The California Teen Library</a>
+  <ul class="nav-list">
+  {% for page in collections.index_pages %}
+    <li class="nav-item"><a href="{{ page.url | url }}" class="nav__link">{{ page.data.navText }}</a></li>
+  {% endfor %}
+  </ul>
+</nav>
