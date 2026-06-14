@@ -5,7 +5,7 @@ navText: Genre
 
 # Genre index
 
-## Books
+## Book genres
 
 ### Action and adventure
 

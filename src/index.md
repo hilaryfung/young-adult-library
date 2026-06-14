@@ -10,7 +10,7 @@ templateEngineOverride: njk, md
 
 <h3>Explore by</h3>
 <nav class="homepage__nav constrained">
-{%- for page in collections.index_pages -%}
+{%- for page in collections.pages -%}
   <a class="button--large" href="{{ page.url | url }}">{{ page.data.navText }}</a>
 {%- endfor -%}
 </nav>
