@@ -34,9 +34,9 @@ figure {
 /* Typography */
 
 body {
-  font-family: "Urbanist", sans-serif;
+  font-family: "Figtree", sans-serif;
   font-optical-sizing: auto;
-  font-weight: 400;
+  font-weight: <weight>;
   font-style: normal;
   padding-bottom: 100px;
 }
