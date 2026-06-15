@@ -75,7 +75,7 @@ My reasons for inclusion are not unrelated to the potential challenges mentioned
 
 <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/episode-18-ryka-aoki-author-light-from-uncommon-stars/id1557773994?i=1000548479365"></iframe>
 
-## Sources
+## Works cited
 Aoki, R. (n.d.). _About._ [https://rykaryka.com/about](https://rykaryka.com/about)
 
 Glisten. (n.d.). _Rainbow Library._ Retrieved June 14, 2026, from [https://glisten.org/campaigns/rainbow-library/](https://glisten.org/campaigns/rainbow-library/)
