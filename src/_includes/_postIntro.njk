@@ -6,7 +6,7 @@
 <div class="header__right">
   <h4 class="post__date">{{ datePublished }}</h4>
   <h1><em>{{ title }}</em></h1>
-  <p>{{ format }} by {{ author }}</p>
+  <p><span class="post__format">{{ format }}</span> by {{ author }}</p>
   {% for item in bibliographicData %}
     <p>{{ item }}</p>
   {% endfor %}

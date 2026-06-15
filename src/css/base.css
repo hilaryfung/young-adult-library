@@ -138,6 +138,10 @@ header {
   width: 250px;
 }
 
+.header__right {
+  width: calc(100% - 265px);
+}
+
 .post__date {
   margin-top: 0;
 }
@@ -146,6 +150,6 @@ header {
   width: 250px;
 }
 
-.header__right {
-  width: calc(100% - 265px);
+.post__format {
+  text-transform: uppercase;
 }

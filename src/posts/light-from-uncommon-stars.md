@@ -7,12 +7,9 @@ datePublished: June 14, 2026
 format: BOOK
 author: Ryka Aoki
 bibliographicData: ['ISBN: 9781250789068', 'Tor, 2021']
+genreStatement: <em>Light From Uncommon Stars</em> is a science fiction and low fantasy novel.
+genreTags: Fiction, Action and adventure, Coming of age, Science fiction and speculative fiction, Fantasy and magical realism,  LGBTQ+ literature, Romance
 ---
-
-## Genre
-_Light From Uncommon Stars_ is a science fiction and low fantasy novel.
-
-Fiction, Science fiction and speculative fiction, Fantasy and magical realism, Action and adventure, LGBTQ+ literature, Romance, Coming of age
 
 ## Awards and honors
 * Winner, Alex Award, [2022](https://www.ala.org/yalsa/2022-alex-awards)
