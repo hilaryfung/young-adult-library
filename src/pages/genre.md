@@ -13,11 +13,21 @@ navText: Genre
   <li><a href="{{ '/light-from-uncommon-stars' | url }}"><em>Light from Uncommon Stars</em></a> by Ryka Aoki</li>
 </ul> 
 
+### Anthologies and short stories
+
+### Biographies, autobiographies, and memoirs
+
+### Climate fiction and dystopian fiction
+
+### Comics, graphic novels, and manga
+
 ### Coming of age
 
 <ul>
   <li><a href="{{ '/light-from-uncommon-stars' | url }}"><em>Light from Uncommon Stars</em></a> by Ryka Aoki</li>
 </ul> 
+
+### Diasporic literature
 
 ### Fantasy and magical realism
 
@@ -31,11 +41,23 @@ navText: Genre
   <li><a href="{{ '/light-from-uncommon-stars' | url }}"><em>Light from Uncommon Stars</em></a> by Ryka Aoki</li>
 </ul> 
 
+### Historical fiction
+
+### History (nonfiction)
+
 ### LGBTQ+ literature
 
 <ul>
   <li><a href="{{ '/light-from-uncommon-stars' | url }}"><em>Light from Uncommon Stars</em></a> by Ryka Aoki</li>
 </ul> 
+
+### Mystery, thriller, and true crime
+
+### Nonfiction
+
+### Poetry and verse
+
+### Realistic fiction
 
 ### Romance
 
@@ -48,6 +70,10 @@ navText: Genre
 <ul>
   <li><a href="{{ '/light-from-uncommon-stars' | url }}"><em>Light from Uncommon Stars</em></a> by Ryka Aoki</li>
 </ul> 
+
+### Sports
+
+### Works in translation
 
 ## Television, film, music, videogame, and podcast genres
 

@@ -16,7 +16,19 @@ body {
     padding-left: 10px;
     padding-right: 10px;
   }
+}
 
+.flexbox {
+  column-gap: 15px;
+  display: flex;
+}
+
+figure {
+  margin: 0;
+}
+
+.flexbox__image {
+  width: 180px;
 }
 
 /* Typography */
@@ -123,7 +135,6 @@ header {
 }
 
 .header__left {
-  margin: 0;
   width: 250px;
 }
 
