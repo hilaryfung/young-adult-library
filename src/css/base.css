@@ -48,6 +48,12 @@ h3 {
   width: 25%;
 }
 
+.marquee {
+  border-top: 0.5px solid #111;
+  margin-top: 50px;
+  padding-top: 20px;
+}
+
 /* Page and post navigation */
 
 .top-nav {
@@ -88,5 +94,5 @@ header {
 }
 
 .post__image {
-  max-width: 400px;
+  max-width: 200px;
 }

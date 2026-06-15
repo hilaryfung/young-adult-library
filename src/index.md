@@ -4,27 +4,39 @@ layout: base.njk
 templateEngineOverride: njk, md
 ---
 
-<h3>Welcome to</h3>
-<h1>{{ title }}</h1>
-<p>A collection of books, movies, shows, and more for young adults who are curious about the world. </p>
+#### Welcome to
 
-<h3>Explore by</h3>
+<h1>{{ title }}</h1>
+
+### A collection of books, movies, shows, and more for young adults who are curious about the world.
+
+#### Explore by
 <nav class="homepage__nav constrained">
 {%- for page in collections.pages -%}
   <a class="button--large" href="{{ page.url | url }}">{{ page.data.navText }}</a>
 {%- endfor -%}
 </nav>
 
-<h3>About the collection</h3>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam lacinia eros sed iaculis scelerisque. In at semper tellus. Proin rhoncus nunc at justo condimentum, et elementum sem rutrum. Curabitur nisl sem, faucibus at tempus sed, ultricies quis ipsum. Morbi pulvinar egestas erat. Nunc ullamcorper pretium mollis. In dignissim placerat nunc, eu gravida leo accumsan aliquam. Curabitur sed metus ut augue finibus rhoncus eu non orci. Praesent non mollis risus. Proin tincidunt varius convallis. Etiam commodo enim sit amet nunc posuere, eu iaculis ipsum lacinia. Vivamus vel tempus diam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. </p>
+## About the collection
+I created this miniature library of 30 works for Lisa Houde’s Young Adult Materials course at San José State University. But I also created this library for every teenager who’s curious about the world and wants to understand their place in it.
 
-<h3>About the librarian</h3>
-<p>Curabitur varius diam nec nibh malesuada, nec auctor purus sagittis. Phasellus a purus vestibulum sapien accumsan faucibus nec nec justo. Aenean tempor bibendum lectus, vel aliquam nisi elementum et. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nullam ornare ligula metus, id efficitur erat dignissim at. Proin ut erat iaculis, vestibulum lorem at, ultricies lectus. Cras gravida ut lacus eu commodo. Maecenas quis sagittis ante. Donec leo mi, dapibus sit amet leo eget, placerat viverra justo. Nam posuere erat ac ipsum convallis, et varius ante molestie. Aenean at mi non risus fermentum blandit et id mi. Suspendisse potenti. Suspendisse potenti. Maecenas porta vitae urna nec viverra. Phasellus dignissim diam et mi sodales ultricies. </p>
+With Bay Area teens in mind, I selected titles set in San Francisco and Albany, Calif. high schools, plus a graphic memoir that illuminates a slice of San Jose history. I chose _Few Blue Skies_ and _A Catalog of Burnt Objects_ because they address climate emergencies that have acute effects on California communities. 
 
-<h3>Reflections</h3>
-<p>Coming soon!</p>
+The state population includes many diasporas, and for this reason, I selected several titles related to migration. _Everything We Never Had_ tells a story of 1960s Filipino farmworkers, _Together We See_ of young Bribri Americans in Minnesota, and _High Spirits_ of Dominican families in New York. Of course, California is also home to many indigenous peoples, including the Pomo, Miwok, Yokuts, Chumash, and many more (Castillo, n.d.). Though I couldn’t fit a title about California’s native tribes in this collection, I hope _This Place: 150 Years Retold_ helps readers understand the history of settler colonialism in North America. It happened here, too.
 
-<ul>
+Because today’s world is so globally connected, I ensured that half of the collection is set outside of the United States. Read, watch, and listen your way through this library, and you’ll travel from Haiti to Lebanon, South Africa to Japan. I chose primarily works that were created for a young adult audience, but a few are adult works that I found to be appropriate for, and of interest to, older teens. Finally, I aimed for a diversity of genres and characters, including stories of autistic, asexual, and transgender teens. I hope every reader finds someone like them in this collection, whether it’s because they share an identity, a homeland, an experience, a feeling, or a dream.
+
+## About the librarian
+My name is Hilary, and I’m a student living in Oakland, California. I grew up in the suburbs of Chicago reading _The House On Mango Street_ and _The Baby-Sitters Club_. I worked as a journalist and visual designer for ten years before starting library school. I like cooking, urban sketching, and rock climbing. Thank you for visiting my collection.
+
+## Reflection
+Coming soon!
+
+## Works cited
+Castillo, E. D. (n.d.). _California Indian History._ California Native American Heritage Commission. Retrieved June 14, 2026, from [https://nahc.ca.gov/native-americans/california-indian-history/](https://nahc.ca.gov/native-americans/california-indian-history/)
+
+
+<ul class="marquee">
 {% for post in collections.posts %}
   <li><a href="{{ post.url | url }}">{{ post.data.title }}</a></li>
 {% endfor %}

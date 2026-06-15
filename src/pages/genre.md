@@ -49,7 +49,7 @@ navText: Genre
   <li><a href="{{ '/light-from-uncommon-stars' | url }}"><em>Light from Uncommon Stars</em></a> by Ryka Aoki (print)</li>
 </ul> 
 
-## TV, Film, Music, Games, and Podcasts
+## Television, film, music, videogame, and podcast genres
 
 ### Rock
 
