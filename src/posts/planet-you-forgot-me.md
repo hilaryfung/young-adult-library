@@ -1,24 +1,13 @@
 ---
 title: Planet You Forgot Me
+image: planet-you-forgot-me.webp
+credit: Apple Music
+creditUrl: https://music.apple.com/us/album/planet-you-forgot-me-ep/6770774688
+datePublished: June 14, 2026
+format: MUSICAL RELEASE (EP)
+author: Leyla Ebrahimi
+bibliographicData: ['6 songs, 21 minutes', 'Deerfield Records/Interscope Records; June 5, 2026']
 ---
-
-<header>
-<figure class="header__left">
-  <img class="post__image" src="{{ '/images/planet-you-forgot-me.webp' | url }}">
-  <figcaption><a href="https://music.apple.com/us/album/planet-you-forgot-me-ep/6770774688">Apple Music</a>.</figcaption>
-</figure>
-<div class="header__right">
-<h4 class="post__date">June 14, 2026</h4>
-
-# Planet You Forgot Me
-
-MUSICAL RELEASE (EP) by Leyla Ebrahimi
-
-6 songs, 21 minutes
-
-Deerfield Records/Interscope Records, June 5, 2026
-</div>
-</header>
 
 ## Genre
 Alternative, rock, pop

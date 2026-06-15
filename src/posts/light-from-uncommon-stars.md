@@ -1,24 +1,13 @@
 ---
 title: Light From Uncommon Stars
+image: light-from-uncommon-stars.jpg
+credit: Macmillan
+creditUrl: https://us.macmillan.com/books/9781250789068/lightfromuncommonstars/
+datePublished: June 14, 2026
+format: BOOK
+author: Ryka Aoki
+bibliographicData: ['ISBN: 9781250789068', 'Tor, 2021']
 ---
-
-<header>
-<figure class="header__left">
-  <img class="post__image" src="{{ '/images/light-from-uncommon-stars.jpg' | url }}">
-  <figcaption><a href="https://us.macmillan.com/books/9781250789068/lightfromuncommonstars/">Macmillan.</a></figcaption>
-</figure>
-<div class="header__right">
-<h4 class="post__date">June 14, 2026</h4>
-
-# _Light From Uncommon Stars_
-
-BOOK by Ryka Aoki
-
-ISBN: 9781250789068
-
-Tor, 2021
-</div>
-</header>
 
 ## Genre
 _Light From Uncommon Stars_ is a science fiction and low fantasy novel.

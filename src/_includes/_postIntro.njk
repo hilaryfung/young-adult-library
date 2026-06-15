@@ -1,0 +1,14 @@
+<header class="constrained">
+<figure class="header__left">
+  <img class="post__image" src="{{ ['/images/', image] | join | url }}">
+  <figcaption><a href="{{ creditURL }}">{{ credit }}</a></figcaption>
+</figure>
+<div class="header__right">
+  <h4 class="post__date">{{ datePublished }}</h4>
+  <h1><em>{{ title }}</em></h1>
+  <p>{{ format }} by {{ author }}</p>
+  {% for item in bibliographicData %}
+    <p>{{ item }}</p>
+  {% endfor %}
+</div>
+</header>
