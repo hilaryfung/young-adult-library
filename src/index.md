@@ -1,12 +1,12 @@
 ---
-title: The California Teen Library
+title: Home
 layout: base.njk
 templateEngineOverride: njk, md
 ---
 
 #### Welcome to
 
-<h1>{{ title }}</h1>
+<h1>The California Teen Library</h1>
 
 ### A collection of books, movies, shows, and more for young adults who are curious about the world.
 
@@ -27,7 +27,7 @@ The state population includes many diasporas, and for this reason, I selected se
 Because today’s world is so globally connected, I ensured that half of the collection is set outside of the United States. Read, watch, and listen your way through this library, and you’ll travel from Haiti to Lebanon, South Africa to Japan. I chose primarily works that were created for a young adult audience, but a few are adult works that I found to be appropriate for, and of interest to, older teens. Finally, I aimed for a diversity of genres and characters, including stories of autistic, asexual, and transgender teens. I hope every reader finds someone like them in this collection, whether it’s because they share an identity, a homeland, an experience, a feeling, or a dream.
 
 ## About the librarian
-My name is Hilary, and I’m a student living in Oakland, California. I grew up in the suburbs of Chicago reading _The House On Mango Street_ and _The Baby-Sitters Club_. I worked as a journalist and visual designer for ten years before starting library school. I like cooking, urban sketching, and rock climbing. Thank you for visiting my collection.
+My name is Hilary, and I’m a student living in Oakland, California. I grew up in the suburbs of Chicago reading _The House On Mango Street_ and _The Baby-Sitters Club_. I worked as a journalist and visual designer for ten years before starting library school. Thank you for visiting my library!
 
 ## Reflection
 Coming soon!

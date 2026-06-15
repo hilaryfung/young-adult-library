@@ -8,7 +8,7 @@ title: Light From Uncommon Stars
   <figcaption><a href="https://us.macmillan.com/books/9781250789068/lightfromuncommonstars/">Macmillan.</a></figcaption>
 </figure>
 <div class="header__right">
-<p class="post__date">June 14, 2026</p>
+<h4 class="post__date">June 14, 2026</h4>
 
 # _Light From Uncommon Stars_
 
@@ -17,23 +17,22 @@ BOOK by Ryka Aoki
 ISBN: 9781250789068
 
 Tor, 2021
+</div>
+</header>
 
-### Genre
+## Genre
 _Light From Uncommon Stars_ is a science fiction and low fantasy novel.
 
 Fiction, Science fiction and speculative fiction, Fantasy and magical realism, Action and adventure, LGBTQ+ literature, Romance, Coming of age
 
-### Awards and honors
+## Awards and honors
 * Winner, Alex Award, [2022](https://www.ala.org/yalsa/2022-alex-awards)
 * Winner, Otherwise Award, [2021](https://otherwiseaward.org/award/2021-otherwise-award#award-winners)
 * Honor, Stonewall Book Award, [2022](https://www.ala.org/rrt/award/stonewall/honored#2022)
 * Finalist, Hugo Award, [2022](https://www.kirkusreviews.com/news-and-features/articles/finalists-for-2022-hugo-awards-are-revealed/)
 
-### Reading level and interest level
+## Reading level and interest level
 Age 16 and up. While the novel was written for adults, the teenage main character’s coming-of-age story has special appeal for young adults.
-
-</div>
-</header>
 
 ## Plot summary
 Katrina Nguyen escapes an abusive home with a getaway bag and her beloved violin. She lands in San Gabriel Valley, where renowned violin teacher Shizuka Satomi takes her in. Shizuka offers to coach Katrina into the highest levels of violin success, and she seems to know exactly how to nurture Katrina as she steps fully, proudly, into her transgender identity. The catch? Katrina has to pay with her soul. Years ago, Shizuka made a deal with the devil, and she’s already condemned six young violin stars to hell. She owes one more, and she wants it to be Katrina’s.
