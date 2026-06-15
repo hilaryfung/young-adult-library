@@ -13,7 +13,7 @@ navText: Format
 
 ## Films
 
-## Musical albums
+## Musical releases
 
 * <a href="{{ '/planet-you-forgot-me' | url }}">_Planet You Forgot Me_</a> by Leyla Ebrahimi
 

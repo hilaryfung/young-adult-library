@@ -29,7 +29,7 @@ Because today’s world is so globally connected, I ensured that half of the col
 ## About the librarian
 <div class="flexbox">
 <figure>
-  <img src="{{ '/images/hilary.jpg' | url }}" class="flexbox__image">
+  <img src="{{ '/images/hilary.jpg' }}" class="flexbox__image">
 </figure>
 <div>
 
@@ -43,7 +43,6 @@ Coming soon!
 
 ## Works cited
 Castillo, E. D. (n.d.). _California Indian History._ California Native American Heritage Commission. Retrieved June 14, 2026, from [https://nahc.ca.gov/native-americans/california-indian-history/](https://nahc.ca.gov/native-americans/california-indian-history/)
-
 
 <ul class="marquee">
 {% for post in collections.posts %}
