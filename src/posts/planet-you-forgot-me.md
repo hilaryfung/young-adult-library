@@ -12,7 +12,7 @@ title: Planet You Forgot Me
 
 # Planet You Forgot Me
 
-MUSICAL ALBUM (EP) by Leyla Ebrahimi
+MUSICAL RELEASE (EP) by Leyla Ebrahimi
 
 6 songs, 21 minutes
 
@@ -35,10 +35,10 @@ In her debut EP, Leyla Ebrahimi sings, screams, and cries her way through heartb
 As she moves through the stages of grief, Ebrahimi employs a variety of musical styles, flowing through dreamy synth pop, rock, and indie fuzz. She worked with Alexander 23 and Shane Pielocik on the release (Marotta, 2026).
 
 ## Artist background
-Ebrahimi is a Persian American artist. She grew up in Virginia and now lives in Brooklyn.
+Ebrahimi is a Persian American artist (Townsel, 2025). She grew up in Virginia and now lives in Brooklyn.
 
 ## Critical evaluation
-Is “I’m a little flower and I think I need your water” not a perfect line about young love? Ebrahimi demonstrates vulnerability and versatility on a compelling debut, conveying a range of intense emotions from nostalgia to obsession to regret. With warm vocals and fun, powerful instrumentals, her EP provides the soundtrack for cathartic release — something I definitely needed as a teen.
+Is “I’m a little flower and I think I need your water” not a perfect line about young love? Ebrahimi demonstrates vulnerability and versatility on a compelling debut, conveying a range of intense emotions from nostalgia to obsession to regret. With warm vocals and fun, powerful instrumentals, her EP provides a soundtrack for cathartic release — something I definitely needed as a teen.
 
 ## Extra!
 ★ Listen to Ebrahimi talk about [Persian representation on Triple J](https://www.tiktok.com/@triplej/video/7649252740186557703).
