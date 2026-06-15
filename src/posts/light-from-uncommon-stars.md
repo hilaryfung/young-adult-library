@@ -40,7 +40,7 @@ _Sound Director For A Day._ Although a film adaptation has been mentioned (Tu, 2
 
 At the end, “perform” your new film by having teens read snippets from the book while your new soundtrack plays. Serve doughnuts, of course.
 
-## Book talk
+## Speed-round book talk
 Life is harsh, and _Light From Uncommon Stars_ doesn’t shy away from that reality. But while they’re combatting abuse, transphobia, demons, and a multi-galaxy plague, the characters in this book enjoy many pleasures. A fresh doughnut, a steaming bite of Hainan chicken. A perfectly timed clapback, delivered while you’re on stage in a fabulous dress. Feeding ducks at the lake with your crush. Read this book if you liked _Everything Everywhere All At Once;_ read this book if you like romantic fantasy and well-written trans characters; read this book if you want to feel joy.
 
 ## Potential challenges
