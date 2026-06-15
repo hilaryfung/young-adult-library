@@ -4,6 +4,8 @@ layout: base.njk
 templateEngineOverride: njk, md
 ---
 
+<main class="constrained">
+
 #### Welcome to
 
 <h1>The California Teen Library</h1>
@@ -20,7 +22,7 @@ templateEngineOverride: njk, md
 ## About the collection
 I created this miniature library of 30 works for Lisa Houde’s Young Adult Materials course at San José State University. But I also created this library for every teenager who’s curious about the world and wants to understand their place in it.
 
-With Bay Area teens in mind, I selected titles set in San Francisco and Albany, Calif. high schools, plus a graphic memoir that illuminates a slice of San Jose history. I chose _Few Blue Skies_ and _A Catalog of Burnt Objects_ because they address climate emergencies that have acute effects on California communities. 
+With Bay Area teens in mind, I selected titles set in San Francisco and Albany, CA high schools, plus a graphic memoir that illuminates a slice of San Jose history. I chose _Few Blue Skies_ and _A Catalog of Burnt Objects_ because they address climate emergencies that have acute effects on California communities. 
 
 The state population includes many diasporas, and for this reason, I selected several titles related to migration. _Everything We Never Had_ tells a story of 1960s Filipino farmworkers, _Together We See_ of young Bribri Americans in Minnesota, and _High Spirits_ of Dominican families in New York. Of course, California is also home to many indigenous peoples, including the Pomo, Miwok, Yokuts, Chumash, and many more (Castillo, n.d.). Though I couldn’t fit a title about California’s native tribes in this collection, I hope _This Place: 150 Years Retold_ helps readers grapple with the history of settler colonialism in North America.
 
@@ -49,3 +51,5 @@ Castillo, E. D. (n.d.). _California Indian History._ California Native American 
   <li><a href="{{ post.url | url }}">{{ post.data.title }}</a></li>
 {% endfor %}
 </ul>
+
+</main>

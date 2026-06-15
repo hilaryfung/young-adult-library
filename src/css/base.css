@@ -94,7 +94,7 @@ a {
 
 /* Page and post navigation */
 
-.top-nav {
+nav {
   align-items: center;
   border-bottom: 0.5px solid #111;
   display: flex;
