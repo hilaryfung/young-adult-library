@@ -51,7 +51,7 @@ Librarians can argue that overall, this novel provides a genuine depiction of tr
 Creative freedom also applies to the fantasy genre and depictions of the supernatural activity.
 
 ## Reason for inclusion
-My reasons for inclusion are not unrelated to the potential challenges mentioned above. Aoki’s authentic portrayal of transgender coming of age is special. And it’s no exaggeration to say that this book made me feel alive. In an era when teens report high rates of anxiety, depression, and suicidality — transgender teens especially (Nath et al., 2026) — that’s a crucial feat.
+My reasons for inclusion are not unrelated to the potential challenges mentioned above. Aoki’s authentic portrayals of sex work and transgender coming of age are special. And it’s no exaggeration to say that this book made me feel alive. In an era when teens report high rates of anxiety, depression, and suicidality — transgender teens especially (Nath et al., 2026) — that’s a crucial feat.
 
 ## Dive deeper!
 
