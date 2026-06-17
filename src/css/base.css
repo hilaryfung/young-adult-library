@@ -153,3 +153,12 @@ header {
 .post__format {
   text-transform: uppercase;
 }
+
+.post__diptych figure {
+  width: 50%;
+}
+
+.post__diptych img {
+  display: block;
+  width: 100%;
+}
