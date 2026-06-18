@@ -6,7 +6,7 @@ navText: Title
 # Title index
 
 <ol>
-{% for post in collections.posts %}
+{% for post in collections.postsByTitle %}
   <li><a href="{{ post.url | url }}">{{ post.data.title }}</a> by {{ post.data.author }} ({{ post.data.publicationYear }})</li>
 {% endfor %}
 </ol>

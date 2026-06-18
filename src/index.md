@@ -46,10 +46,4 @@ Coming soon!
 ## Works cited
 Castillo, E. D. (n.d.). _California Indian History._ California Native American Heritage Commission. Retrieved June 14, 2026, from [https://nahc.ca.gov/native-americans/california-indian-history/](https://nahc.ca.gov/native-americans/california-indian-history/)
 
-<ul class="marquee">
-{% for post in collections.posts %}
-  <li><a href="{{ post.url | url }}">{{ post.data.title }}</a></li>
-{% endfor %}
-</ul>
-
 </main>
