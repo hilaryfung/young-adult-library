@@ -5,8 +5,18 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addWatchTarget("./src/images/");
 
   eleventyConfig.addCollection('postsByTitle', collection => {
-    const postsByTitle = collection.getFilteredByTag('posts');
-    postsByTitle.sort((a, b) => a.data.title.localeCompare(b.data.title));
+    let postsByTitle = collection.getFilteredByTag('posts');
+    postsByTitle.sort((a, b) => {
+      let c = a.data.title,
+        d = b.data.title;
+      if (c.startsWith("The ")) {
+        c = c.split("The ").pop()
+      }
+      if (d.startsWith("The ")) {
+        d = d.split("The ").pop()
+      }
+      return c.localeCompare(d);
+    });
     return postsByTitle;
   });
 
