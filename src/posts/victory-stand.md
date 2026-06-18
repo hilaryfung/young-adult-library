@@ -3,12 +3,13 @@ title: Victory. Stand! Raising My Fist For Justice
 image: victory-stand.jpg
 credit: Golden Apple
 creditUrl: https://goldenapplecomics.com/products/55068
-datePublished: June 16, 2026
+postDate: June 16, 2026
 format: Book
 author: Tommie Smith, Derrick Barnes, and Dawud Anyabwile (illustrator)
 bibliographicData: ['ISBN: 9781324003908', 'Norton Young Readers, an imprint of W.W. Norton & Company, 2022']
+publicationYear: 2022
 genreStatement: <em>Victory. Stand!</em> is a graphic memoir.
-genreTags: Nonfiction, Biographies, autobiographies, and memoirs, Comics, graphic novels, and manga, History (nonfiction), Sports
+genreTags: Nonfiction; Biographies, autobiographies, and memoirs; Comics, graphic novels, and manga; History (nonfiction), Sports
 ---
 
 ## Awards and honors
@@ -17,7 +18,7 @@ genreTags: Nonfiction, Biographies, autobiographies, and memoirs, Comics, graphi
 * Honor, Coretta Scott King Award, [2023](https://www.ala.org/awards/books-media/coretta-scott-king-book-awards)
 
 ## Reading level and interest level
-Grades 9-12, according to [Booklist](https://www.booklistonline.com/products/9764840). The reading level is easier than the interest level.
+Grades 9-12, according to [Booklist](https://www.booklistonline.com/products/9764840). I found the reading level to be simpler than the interest level.
 
 ## Plot summary 
 What happened in Tommie Smith’s life before he raised his fist at the 1968 Olympics? This graphic memoir tells his story, moving from his childhood on a Texas farm to high school in California’s Central Valley to San José State University, where he trains to become the world’s fastest runner. In “Speed City,” he meets other Black athletes who are putting San Jose on the world stage while experiencing discrimination and learning about the Black Power movement growing across the country. Smith finds his role in the movement as he gets stronger and faster on the track.

@@ -35,7 +35,7 @@ Because today’s world is so globally connected, I chose titles set outside the
 </figure>
 <div>
 
-My name is Hilary, and I’m a student living in Oakland, California. I grew up in the suburbs of Chicago reading _The House On Mango Street_ and _The Baby-Sitters Club_. I worked as a journalist and visual designer for ten years before starting library school. Thank you for visiting my library!
+My name is Hilary, and I’m a student living in Oakland, CA. I grew up in the suburbs of Chicago reading _The House On Mango Street_ and _The Baby-Sitters Club_. I worked as a journalist and visual designer for ten years before starting library school. Thank you for visiting my library!
 
 </div>
 </div>

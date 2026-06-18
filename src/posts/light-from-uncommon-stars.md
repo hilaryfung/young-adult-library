@@ -3,12 +3,13 @@ title: Light From Uncommon Stars
 image: light-from-uncommon-stars.jpg
 credit: Macmillan
 creditUrl: https://us.macmillan.com/books/9781250789068/lightfromuncommonstars/
-datePublished: June 14, 2026
+postDate: June 14, 2026
 format: BOOK
 author: Ryka Aoki
 bibliographicData: ['ISBN: 9781250789068', 'Tor, 2021']
+publicationYear: 2021
 genreStatement: <em>Light From Uncommon Stars</em> is a science fiction and low fantasy novel.
-genreTags: Fiction, Action and adventure, Coming of age, Science fiction and speculative fiction, Fantasy and magical realism,  LGBTQ+ literature, Romance
+genreTags: Fiction; Action and adventure; Coming of age; Science fiction and speculative fiction; Fantasy and magical realism; LGBTQ+ literature; Romance
 ---
 
 ## Awards and honors
@@ -44,7 +45,7 @@ At the end, “perform” your new film by having teens read snippets from the b
 Life is harsh, and _Light From Uncommon Stars_ doesn’t shy away from that reality. But while they’re combatting abuse, transphobia, demons, and a multi-galaxy plague, the characters in this book enjoy many pleasures. A fresh doughnut, a steaming bite of Hainan chicken. A perfectly timed clapback, delivered while you’re on stage in a fabulous dress. Feeding ducks at the lake with your crush. Read this book if you liked _Everything Everywhere All At Once;_ read this book if you like romantic fantasy and well-written trans characters; read this book if you want to feel joy.
 
 ## Potential challenges
-Transgender characters and depictions of the devil are common flash points in the world of book challenges, and librarians should be prepared to defend both. This book may be especially controversial because it discusses sex work and sexual assault.
+Transgender characters and depictions of the devil are common flash points in the world of book challenges. _Light From Uncommon Stars_ may be especially controversial because it discusses sex work. The book has been banned from one academic library in Maryland and one school library in Virginia on the basis of equity, diversity, and inclusion (EDI) content and transgender representation, respectively (American Library Association, 2026). 
 
 Librarians can argue that overall, this novel provides a genuine depiction of transgender experience and coming of age; it’s not lurid or sensational. The publication of transgender stories is especially important for young people, whose physical and mental health are improved when they see themselves represented in popular media (Mocarski et al., 2019). Moreover, U.S. legal precedent stands on the side of creative freedom. In 1995, a federal district court in Kansas overturned a school district’s ban on a lesbian romance book (Glisten, n.d.).
 
@@ -55,15 +56,18 @@ My reasons for inclusion are not unrelated to the potential challenges mentioned
 
 ## Dive deeper!
 
-★ Watch a [documentary about doughnut shops owned by Cambodian Americans](https://www.donutkingmovie.com/) in Southern California.
-
 ★ Listen to Ryka Aoki talk about the book on [_All Stars Book Club._](https://allstarsbookclub.wixsite.com/links) 
 
 <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/episode-18-ryka-aoki-author-light-from-uncommon-stars/id1557773994?i=1000548479365"></iframe>
 
+★ Why are many Southern California doughnut shops owned by refugees and immigrants from Southeast Asia? Watch [Donut King](https://www.donutkingmovie.com/) to find out.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sY2jXx0OP88?si=a9ZYuogvPbOMHkry" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Works cited
 Aoki, R. (n.d.). _About._ [https://rykaryka.com/about](https://rykaryka.com/about)
 
+American Library Association. (2026, February 13). Censorship Search Portal. [https://www.ala.org/bbooks/censorship-search-portal](https://www.ala.org/bbooks/censorship-search-portal)
 Glisten. (n.d.). _Rainbow Library._ Retrieved June 14, 2026, from [https://glisten.org/campaigns/rainbow-library/](https://glisten.org/campaigns/rainbow-library/)
 
 Henderson, E. (2023, June 8). _Four Questions with Ryka Aoki._ Lambda Literary. [https://lambdaliterary.org/2023/06/four-questions-with-ryka-aoki/](https://lambdaliterary.org/2023/06/four-questions-with-ryka-aoki/)
@@ -75,3 +79,5 @@ Mocarski, R., King, R., Butler, S., Holt, N. R., Huit, T. Z., Hope, D. A., Meyer
 Nath, R., Matthews, D. D., Hobaica, S., DeChants, J. P., Eden, T. M., Taylor, A. B., & Suffredini, K. (2026). _2025 U.S. national survey on the mental health of LGBTQ+ young people._ The Trevor Project. [https://doi.org/10.70226/EKGT3197](https://doi.org/10.70226/EKGT3197)
 
 Tu, M. (2021, December 13). _We Do What We Can: A Conversation with Ryka Aoki._ The Rumpus. [https://therumpus.net/2021/12/13/the-rumpus-interview-with-ryka-aoki/](https://therumpus.net/2021/12/13/the-rumpus-interview-with-ryka-aoki/)
+
+

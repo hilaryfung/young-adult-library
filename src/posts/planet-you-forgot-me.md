@@ -3,11 +3,12 @@ title: Planet You Forgot Me
 image: planet-you-forgot-me.webp
 credit: Apple Music
 creditUrl: https://music.apple.com/us/album/planet-you-forgot-me-ep/6770774688
-datePublished: June 14, 2026
+postDate: June 14, 2026
 format: MUSICAL RELEASE (EP)
 author: Leyla Ebrahimi
 bibliographicData: ['6 songs, 21 minutes', 'Deerfield Records/Interscope Records; June 5, 2026']
-genreTags: Alternative, Rock, Pop
+publicationYear: 2026
+genreTags: Alternative; Rock; Pop
 ---
 
 ## Awards and honors
@@ -40,3 +41,5 @@ Is “I’m a little flower and I think I need your water” not a perfect line 
 Townsel, D. (2025, November 7). _Leyla Ebrahimi Is Still Figuring It Out — And She's Letting Us Hear It._ Intersect. [https://www.intersectmagazine.com/post/leyla-ebrahimi-is-still-figuring-it-out-and-she-s-letting-us-hear-it](https://www.intersectmagazine.com/post/leyla-ebrahimi-is-still-figuring-it-out-and-she-s-letting-us-hear-it)
 
 Marotta, M. O. (2026, April 6). _Leyla Ebrahimi screams from the soul on the stirring ‘I’m Sorry Maria’._ Vanyaland. [https://vanyaland.com/2026/04/06/leyla-ebrahimi-screams-from-the-soul-on-the-stirring-im-sorry-maria/](https://vanyaland.com/2026/04/06/leyla-ebrahimi-screams-from-the-soul-on-the-stirring-im-sorry-maria/)
+
+
