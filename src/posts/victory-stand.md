@@ -55,19 +55,19 @@ Both racist terror and the multiplicity of responses to it are facts that have s
 ## Reason for inclusion
 This book does so many good things. It shows readers the history of sharecropping in the American South, of Black migration from Texas and Oklahoma to California, and of the civil rights and Black Power movements of the 1960s. It depicts young people finding their role in society while historic events unfold around them. It shows individual acts of courage alongside cooperation and collective action; it shows what difference a supportive person like Coach Winter can make. It’s educational, and it’s triumphant.
 
-## Dig deeper!
+## Dive deeper!
 ★ Follow [the conversation](https://www.theroot.com/ryan-clark-is-right-black-athletes-shouldnt-play-where-2000104780) about a [growing call](https://www.pbs.org/newshour/politics/naacp-calls-for-boycott-of-southern-college-sports-programs-over-voting-rights) for Black athletes to boycott Southern universities where voting rights are threatened.
 
 ★ Do you live near San Jose or Washington, D.C.? Visit a statue of Tommie Smith on the [San José State University campus](https://www.sjsu.edu/ha-public-art-tour/public-art/black-power.php), or view the items worn by Smith, Carlos, and Peter Norman at the [National Museum of African American History and Culture](https://nmaahc.si.edu/explore/collection/search?edan_fq[]=name:%22Smith%2C+Tommie%22).
 
 <div class="flexbox constrained post__diptych">
   <figure>
-    <img src="{{ '/images/smith-statue-nmaahc.jpg' | url }}" alt="Sculpture of Tommie Smith, John Carlos, and Peter Normal at the National Museum of African American History and Culture">
-    <figcaption><a href="https://www.flickr.com/photos/ronc-photography/24750546388/in/photostream/">Ron Cogswell</a></figcaption>
-  </figure>
-  <figure>
     <img src="{{ '/images/smith-statue-san-jose.jpg' | url }}" alt="">
     <figcaption><a href="https://www.flickr.com/photos/24208255@N07/10768786034">Albert</a></figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/images/smith-statue-nmaahc.jpg' | url }}" alt="Sculpture of Tommie Smith, John Carlos, and Peter Normal at the National Museum of African American History and Culture">
+    <figcaption><a href="https://www.flickr.com/photos/ronc-photography/24750546388/in/photostream/">Ron Cogswell</a></figcaption>
   </figure>
 </div>
 

@@ -49,7 +49,7 @@ I originally identified this title when I was searching for books with neurodive
 
 But I found much more than one form of representation. Mild spoilers ahead: I found a “Me Too” story about a working class immigrant woman. I found nuance about the sexual assault experience; for example, Shawni and Ariana admit that they sometimes miss Luis. I found teens learning from each other to practice affirmative consent. I found a teen boy navigating a wrongful conviction. I found a young journalist learning how to report on an issue that affected her personally.<sup>1</sup>
 
-## Dig deeper! or Extra!
+## Extra!
 ★ Listen to the inaugural episode of Reyes’ podcast, [Bidi Bidi Book Pod](https://bidibidibookpod.com/).
 
 <div style="width: 100%; height: 200px; margin-bottom: 20px; border-radius: 6px; overflow:hidden;"><iframe style="width: 100%; height: 200px;" frameborder="no" scrolling="no" allow="clipboard-write" seamless src="https://player.captivate.fm/episode/c9971a8d-b76a-4921-bde7-518e6a61a324"></iframe></div>
