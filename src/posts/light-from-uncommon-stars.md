@@ -19,7 +19,7 @@ genreTags: Fiction; Action and adventure; Coming of age; Science fiction and spe
 * Finalist, Hugo Award, [2022](https://www.kirkusreviews.com/news-and-features/articles/finalists-for-2022-hugo-awards-are-revealed/)
 
 ## Reading level and interest level
-Age 16 and up. While the novel was written for adults, the teenage main character’s coming-of-age story has special appeal for young adults.
+Age 17 and up. While the novel was written for adults, the teenage main character’s coming-of-age story has special appeal for young adults.
 
 ## Plot summary
 Katrina Nguyen escapes an abusive home with a getaway bag and her beloved violin. She lands in San Gabriel Valley, where renowned violin teacher Shizuka Satomi takes her in. Shizuka offers to coach Katrina into the highest levels of violin success, and she seems to know exactly how to nurture Katrina as she steps fully, proudly, into her transgender identity. The catch? Katrina has to pay with her soul. Years ago, Shizuka made a deal with the devil, and she’s already condemned six young violin stars to hell. She owes one more, and she wants it to be Katrina’s.
@@ -64,10 +64,11 @@ My reasons for inclusion are not unrelated to the potential challenges mentioned
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sY2jXx0OP88?si=a9ZYuogvPbOMHkry" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Works cited
+## References
 Aoki, R. (n.d.). _About._ [https://rykaryka.com/about](https://rykaryka.com/about)
 
 American Library Association. (2026, February 13). Censorship Search Portal. [https://www.ala.org/bbooks/censorship-search-portal](https://www.ala.org/bbooks/censorship-search-portal)
+
 Glisten. (n.d.). _Rainbow Library._ Retrieved June 14, 2026, from [https://glisten.org/campaigns/rainbow-library/](https://glisten.org/campaigns/rainbow-library/)
 
 Henderson, E. (2023, June 8). _Four Questions with Ryka Aoki._ Lambda Literary. [https://lambdaliterary.org/2023/06/four-questions-with-ryka-aoki/](https://lambdaliterary.org/2023/06/four-questions-with-ryka-aoki/)

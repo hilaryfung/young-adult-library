@@ -61,7 +61,7 @@ Watch _Delano Manongs_, a film about the 1,500 Filipino farm workers who held a 
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/12448041?h=f6a602f34d" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
 
-## Works cited
+## References
 American Library Association. (n.d.). _Censorship by the Numbers: Banned Books Data_. Retrieved June 21, 2026, from [https://www.ala.org/bbooks/book-ban-data](https://www.ala.org/bbooks/book-ban-data)
 
 Asian Pacific American Librarians Association. (2020, January 31). _APALA Author Interview: Randy Ribay_. [https://www.apalaweb.org/apala-author-interview-randy-ribay/](https://www.apalaweb.org/apala-author-interview-randy-ribay/)

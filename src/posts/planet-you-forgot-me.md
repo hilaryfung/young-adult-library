@@ -15,12 +15,12 @@ genreTags: Alternative; Rock; Pop
 None as of publication
 
 ## Interest level
-Age 14 and up. Some profanity.
+Interest level: Age 14 and up.
 
 ## Summary
 In her debut EP, Leyla Ebrahimi sings, screams, and cries her way through heartbreak. She yearns desperately on the first track — “Maybe in another life, I'll get to have you” — then admits she was wrong on the third — “I’m so messed up baby / I shouldn’t have kept you here.” 
 
-As she moves through the stages of grief, Ebrahimi employs a variety of musical styles, flowing through dreamy synth pop, rock, and indie fuzz. She worked with Alexander 23 and Shane Pielocik on the release (Marotta, 2026).
+As she moves through stages of grief, Ebrahimi employs a variety of musical styles, flowing through dreamy synth pop, rock, and indie fuzz. She worked with Alexander 23 and Shane Pielocik on the release (Marotta, 2026).
 
 ## Artist background
 Ebrahimi is a Persian American artist (Townsel, 2025). She grew up in Virginia and now lives in Brooklyn.
@@ -37,7 +37,7 @@ Is “I’m a little flower and I think I need your water” not a perfect line 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-J-yamQMW-0?si=pIc5gv8vujhSLLbU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Works cited
+## References
 Townsel, D. (2025, November 7). _Leyla Ebrahimi Is Still Figuring It Out — And She's Letting Us Hear It._ Intersect. [https://www.intersectmagazine.com/post/leyla-ebrahimi-is-still-figuring-it-out-and-she-s-letting-us-hear-it](https://www.intersectmagazine.com/post/leyla-ebrahimi-is-still-figuring-it-out-and-she-s-letting-us-hear-it)
 
 Marotta, M. O. (2026, April 6). _Leyla Ebrahimi screams from the soul on the stirring ‘I’m Sorry Maria’._ Vanyaland. [https://vanyaland.com/2026/04/06/leyla-ebrahimi-screams-from-the-soul-on-the-stirring-im-sorry-maria/](https://vanyaland.com/2026/04/06/leyla-ebrahimi-screams-from-the-soul-on-the-stirring-im-sorry-maria/)

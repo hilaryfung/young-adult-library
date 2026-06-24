@@ -18,7 +18,7 @@ genreTags: Nonfiction; Biographies, autobiographies, and memoirs; Comics, graphi
 * Honor, Coretta Scott King Award, [2023](https://www.ala.org/awards/books-media/coretta-scott-king-book-awards)
 
 ## Reading level and interest level
-Grades 9-12, according to [Booklist](https://www.booklistonline.com/products/9764840). I found the reading level to be simpler than the interest level.
+Interest level: Grade 7 to adult, according to NoveList. Reading level: Grade 4 to 5.
 
 ## Plot summary 
 What happened in Tommie Smith’s life before he raised his fist at the 1968 Olympics? This graphic memoir tells his story, moving from his childhood on a Texas farm to high school in California’s Central Valley to San José State University, where he trains to become the world’s fastest runner. In “Speed City,” he meets other Black athletes who are putting San Jose on the world stage while experiencing discrimination and learning about the Black Power movement growing across the country. Smith finds his role in the movement as he gets stronger and faster on the track.
@@ -71,7 +71,7 @@ This book does so many good things. It shows readers the history of sharecroppin
   </figure>
 </div>
 
-## Works cited
+## References
 
 Britannica. (2026). Tommie Smith. In _Encyclopedia Britannica_. [https://www.britannica.com/biography/Tommie-Smith](https://www.britannica.com/biography/Tommie-Smith)
 
