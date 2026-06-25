@@ -26,19 +26,19 @@ As she moves through stages of grief, Ebrahimi employs a variety of musical styl
 Ebrahimi is a Persian American artist (Townsel, 2025). She grew up in Virginia and now lives in Brooklyn.
 
 ## Critical evaluation
-Is “I’m a little flower and I think I need your water” not a perfect line about young love? Ebrahimi demonstrates vulnerability and versatility on a compelling debut, conveying a range of intense emotions from nostalgia to obsession to regret. With warm vocals and fun, powerful instrumentals, her EP provides a soundtrack for cathartic release — something I definitely needed as a teen.
+Is “I’m a little flower and I think I need your water” not a perfect line about young love? Ebrahimi demonstrates vulnerability and versatility on a compelling debut, moving from eerie incantations and longing whispers to full rock-band jams. The EP conveys a range of intense emotions from nostalgia to obsession to regret. I can’t wait to hear what she releases next.
 
 ## Library program
-_Mix your own track._ Ebrahimi combines a variety of styles in her EP. Give attendees a quick demonstration on audio mixing, then allow each person to mix a short track, sampling Ebrahimi’s work or any other song of their choice. Incorporate other [mixing and recording equipment](https://sfpl.org/teens/the-mix/media-production) if it’s available. End the program with a listening party, allowing each person to play their track and to speak briefly about their experience.
+_Mix your own track._ Ebrahimi combines a variety of styles in her EP. Give attendees a quick demonstration on audio mixing, then allow each person to mix a short track, sampling Ebrahimi’s work or any other songs of their choice. Incorporate other [mixing and recording equipment](https://sfpl.org/teens/the-mix/media-production) if it’s available. End the program with a listening party, allowing each participant to play their track and to speak briefly about their experience.
 
 ## Speed-round ~~book~~ album talk
-_Planet You Forgot Me_ is an electrifying debut. In six short tracks, Leyla Ebrahimi employs eerie incantations and longing whispers to take us on the rollercoaster of her heartbreak. I can’t wait to hear what she releases next.
+_Planet You Forgot Me_ is an electrifying debut. In six short tracks, Leyla Ebrahimi employs warm vocals and fun, powerful instrumentals to take us on the rollercoaster of her heartbreak. The resulting EP a soundtrack for cathartic release — something I definitely needed as a teen.
 
 ## Potential challenges
 You don’t have to listen too closely to understand that _Planet You Forgot Me_ is about queer love, which is often challenged at libraries. Like all other queer media, it should be defended. The EP may be categorized as adult media for its profanity and intense themes. 
 
 ## Reason for inclusion
-I find musical debuts so refreshing and inspiring; one of my reasons for inclusion is simply that the release feels so new. It’s also got an angsty feel and a quality of experimentation or exploration. “I think that when I came out a few years ago, I had a personal crisis in terms of my style and what I wear based on how I was feeling sexuality-wise,” Ebrahimi said in an interview (Townsel). “I would say, like my music, my personal style is ever-changing, and there is no way of knowing what direction it will shift to.” These are all elements that I associate with my teen years.
+I find musical debuts so refreshing and inspiring; one of my reasons for inclusion is simply that the release feels so new. It’s also got an angsty feel, a quality of experimentation or exploration that I associate with my teen years. “I think that when I came out a few years ago, I had a personal crisis in terms of my style and what I wear based on how I was feeling sexuality-wise,” Ebrahimi said (Townsel). “I would say, like my music, my personal style is ever-changing, and there is no way of knowing what direction it will shift to.”
 
 ## Extra!
 ★ Listen to Ebrahimi talk about [Persian representation on Triple J](https://www.tiktok.com/@triplej/video/7649252740186557703).
