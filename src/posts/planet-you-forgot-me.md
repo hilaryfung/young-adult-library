@@ -8,7 +8,7 @@ format: MUSICAL RELEASE (EP)
 author: Leyla Ebrahimi
 bibliographicData: ['6 songs, 21 minutes', 'Deerfield Records/Interscope Records; June 5, 2026']
 publicationYear: 2026
-genreTags: Alternative; Rock; Pop
+genreTags: Alternative, Rock, Pop
 ---
 
 ## Awards and honors
