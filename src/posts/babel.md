@@ -1,5 +1,5 @@
 ---
-title: Babel, or the Necessity of Violence: An Arcane History of the Oxford Translators’ Revolution
+title: "Babel, or the Necessity of Violence: An Arcane History of the Oxford Translators’ Revolution"
 image: babel.jpg
 credit: HarperCollins
 creditUrl: https://www.harpercollins.com/products/babel-r-f-kuang
