@@ -154,6 +154,10 @@ header {
   text-transform: uppercase;
 }
 
+.post__diptych {
+  width: 100%;
+}
+
 .post__diptych figure {
   width: 50%;
 }

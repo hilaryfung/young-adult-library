@@ -57,11 +57,11 @@ I also included the novel for its themes of friendship, loyalty, and grief. Fict
 <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@therfkuang/video/7230524705285967147" data-video-id="7230524705285967147" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@therfkuang" href="https://www.tiktok.com/@therfkuang?refer=embed">@therfkuang</a> it’s not AAPI heritage month unless we’re interrogating how empire, colonialism, and racial capitalism affected Asian migration ❤️❤️ <a title="rfkuang" target="_blank" href="https://www.tiktok.com/tag/rfkuang?refer=embed">#rfkuang</a> <a title="authorsoftiktok" target="_blank" href="https://www.tiktok.com/tag/authorsoftiktok?refer=embed">#authorsoftiktok</a> <a title="booktok" target="_blank" href="https://www.tiktok.com/tag/booktok?refer=embed">#booktok</a> <a title="aapiheritagemonth" target="_blank" href="https://www.tiktok.com/tag/aapiheritagemonth?refer=embed">#aapiheritagemonth</a> <a title="thepoppywar" target="_blank" href="https://www.tiktok.com/tag/thepoppywar?refer=embed">#thepoppywar</a> <a title="babel" target="_blank" href="https://www.tiktok.com/tag/babel?refer=embed">#babel</a> <a title="yellowface" target="_blank" href="https://www.tiktok.com/tag/yellowface?refer=embed">#yellowface</a> <a target="_blank" title="♬ original sound - Rebecca F. Kuang" href="https://www.tiktok.com/music/original-sound-7230524738853620522?refer=embed">♬ original sound - Rebecca F. Kuang</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
 
 ## References
-HarperCollins Publishers. (n.d.). _Taipei Story by R.F. Kuang._ Retrieved June 24, 2026, from [https://www.harpercollins.com/pages/taipei-story](https://www.harpercollins.com/pages/taipei-story)
-
 Beesley, K. (2017, December 11). _How novels help you grieve._ Psychology Today.  [https://www.psychologytoday.com/us/blog/psychoanalysis-unplugged/201712/how-novels-help-you-grieve](https://www.psychologytoday.com/us/blog/psychoanalysis-unplugged/201712/how-novels-help-you-grieve)
 
 Blackwell’s Bookshops. (2022, December 20). _An Interview with R.F. Kuang, author of Babel, Blackwell's Book of the Year 2022_ [Video]. YouTube. [https://www.youtube.com/watch?v=IoFHouBp-TQ](https://www.youtube.com/watch?v=IoFHouBp-TQ)
+
+HarperCollins Publishers. (n.d.). _Taipei Story by R.F. Kuang._ Retrieved June 24, 2026, from [https://www.harpercollins.com/pages/taipei-story](https://www.harpercollins.com/pages/taipei-story)
 
 With Nabiha. (2026, February 1). _Why Letty was the catharsis I needed._ Sweet Dish. https://sweetdish.substack.com/p/why-letty-was-the-catharsis-i-needed
 
