@@ -6,7 +6,7 @@ creditUrl: https://www.penguinrandomhouse.com/books/688146/everything-we-never-h
 postDate: June 21, 2026
 format: Audiobook
 author: Randy Ribay. Narrated by Ramón de Ocampo, Jesse Inocalla, Manny Jacinto, and JB Tadena
-bibliographicData: ['ISBN: 9780593461419', 'Books On Tape, 2024']
+bibliographicData: ['ISBN: 9780593866733', 'Kokila, 2024', '6 hours, 42 minutes']
 publicationYear: 2024
 genreStatement: <em>Everything We Never Had</em> is a young adult novel in historical and contemporary realistic fiction.
 genreTags: Fiction, Diasporic literature, Historical fiction, Realistic fiction
@@ -48,7 +48,7 @@ The audiobook is read by four different narrators of the Filipino diaspora, incl
 _Father’s Day brunch and book club._ Teens are encouraged to read the book alongside their fathers before the event. Four tables are set up, one for every Maghabol protagonist. At each table, a Filipino or American dish has been arranged with a printed passage from the book and discussion questions. Allow each table to discuss as a small group before sharing thoughts with the rest of the attendees.
 
 ## Speed-round book talk
-What if you could hear your grandfather’s teenage thoughts, and your great-grandfather’s before that? _Everything We Never Had_ lets us listen in on the Maghabol family, starting with Francisco, a 1930s Filipino migrant who lands in Watsonville, California and ending with Enzo, an anxious teenager stuck at home during the COVID-19 pandemic. Both humorous and poignant, the novel showed me how “the past is the present is the future.”
+What if you could hear your grandfather’s teenage thoughts, and your great-grandfather’s before that? _Everything We Never Had_ lets us listen in on the Maghabol family, starting with Francisco, a 1930s Filipino migrant who lands in Watsonville, California and ending with Enzo, an anxious teenager stuck at home during the COVID-19 pandemic. Both humorous and poignant, the novel showed me how “the present is the past is the future.”
 
 ## Potential challenges
 This novel describes how people of color experience racism, making it the kind of book that often gets challenged (American Library Association, n.d.). While it is fictional, the characters and plot are based on real people and events, such as Larry Itliong, Fermin Tobera, and the Watsonville riots (Jones, 2018).
@@ -57,7 +57,7 @@ This novel describes how people of color experience racism, making it the kind o
 I wanted to include a book focused on teen boys, who have unique experiences and needs (Parker & Hurst, 2025). I also wanted to include a book about the Filipino diaspora, which makes up about four percent of the California population (Im, 2025; U.S. Census Bureau; n.d.). This book fit the bill on both counts, and as a bonus, it discusses mental health among Asian Americans and Pacific Islanders, who are less likely to seek professional mental health care than other teens (Huff, 2023). 
 
 ## Dive deeper!
-Watch _Delano Manongs_, a film about the 1,500 Filipino farm workers who held a strike against the grape growers of Delano, California.
+★ Watch _Delano Manongs_, a film about the 1,500 Filipino farm workers who held a strike against the grape growers of Delano, California.
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/12448041?h=f6a602f34d" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
 

@@ -60,7 +60,7 @@ My reasons for inclusion are not unrelated to the potential challenges mentioned
 
 <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/episode-18-ryka-aoki-author-light-from-uncommon-stars/id1557773994?i=1000548479365"></iframe>
 
-★ Why are many Southern California doughnut shops owned by refugees and immigrants from Southeast Asia? Watch [Donut King](https://www.donutkingmovie.com/) to find out.
+★ Why are many Southern California doughnut shops owned by Southeast Asian refugees and immigrants? Watch [Donut King](https://www.donutkingmovie.com/) to learn one man’s story.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sY2jXx0OP88?si=a9ZYuogvPbOMHkry" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
