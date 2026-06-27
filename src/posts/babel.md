@@ -21,20 +21,20 @@ genreTags: Fiction, Diasporic literature, Fantasy and magical realism, Historica
 Ages 17 and up. The novel was written for adults, but the coming-of-age story has special appeal for young adults.
 
 ## Plot summary 
-A young Robin Swift is shuttled from his native Canton to attend Oxford University’s Royal Institute of Translation, also known as Babel. There, he’s enchanted by friendship, scholarship, and silver, which in this version of Victorian England is a powerful metal that fortifies everything from staircases to steamships. But silver needs translators to work its magic, and as Britain gets hungrier, more desperate to balance its trade deficit, Robin finds he can't do his work without betraying his homeland.
+A young Robin Swift is shuttled from his native Canton to attend Oxford University’s Royal Institute of Translation, also known as Babel. There, he’s enchanted by friendship, scholarship, and silver, which in this version of Victorian England is a magical metal that fortifies everything from staircases to steamships. But silver needs translators to work its power, and as Britain gets hungrier, more desperate to balance its trade deficit, Robin finds he can't do his work without betraying his homeland.
 
 ## Author background
 R. F. Kuang is the author of the Poppy War trilogy, _Yellowface_, and _Taipei Story_, which comes out in September (HarperCollins Publishers, n.d.). She is pursuing a PhD in East Asian Languages and Literatures at Yale.
 
 ## Critical evaluation
-I fell in love with _Babel_ as quickly as Robin with Ramy on their first day at Oxford. Sure, the premise sounds familiar. An orphaned teen finds everything he dreamed of at a magical boarding school, then has to contend with its evil undercurrents. But _Babel_ is wholly original, and its moral questions are much more complex than _Harry Potter’s_, making it more interesting and more reflective of the real world. _Babel_ is less about good versus evil than about humans — us messy containers of love, grief, memory, and desire — identifying our true convictions. It is an alternate history, and it is a field guide for young people of color navigating predominantly white institutions today.
+I fell in love with _Babel_ as quickly as Robin with Ramy on their first day at Oxford. Sure, the premise sounds familiar. An orphaned teen finds everything he dreamed of at a magical boarding school, then has to contend with its evil undercurrents. But _Babel_ is wholly original, and its moral questions are much more complex than _Harry Potter’s_, making it more interesting and more reflective of the real world. _Babel_ is less about good versus evil than about humans — us messy containers of love, grief, memory, and desire — identifying our true convictions. It’s an alternate history, and it’s a field guide for young people of color navigating predominantly white institutions today.
 
-Kuang’s prose is snarky, nerdy, playful, and touching; I found the Victorian pastiche enjoyable (Blackwell’s Bookshops, 2022). Her worldbuilding is grounded in research of world languages and in true events from the Haitian Revolution to the British abolition of slavery to the Opium Wars. From this foundation, it takes only a touch of imagination for the magic of silverworking to shine.
+Kuang’s prose is snarky, nerdy, playful, and touching. I found the Victorian pastiche (Blackwell’s Bookshops, 2022) is enjoyable. Her worldbuilding is grounded in research of world languages and in true events from the Haitian Revolution to the British abolition of slavery to the Opium Wars. From this foundation, it takes only a touch of imagination for the magic of silverworking to shine.
 
-Part of me wishes Victoire and Ramy had gotten more airtime, but I appreciate what Kuang did with Robin’s journey of identity and especially how she wrote Letty — <span class="spoiler">how she reveals the true violence beneath a young, white, liberal woman’s facade</span>. “It’s crazy it took me almost 20 years of reading to find an experience I deal with almost constantly,” one reader wrote ([With Nabiha, 2026](https://sweetdish.substack.com/p/why-letty-was-the-catharsis-i-needed); beware spoilers if you click).
+Part of me wishes Victoire and Ramy had gotten more airtime, but I appreciate what Kuang did with Robin’s journey of identity and especially how she wrote Letty — <span class="spoiler">how she reveals the true violence beneath a young, white, liberal woman’s facade</span>. “It’s crazy it took me almost 20 years of reading to find an experience I deal with almost constantly in the character of Letty,” one reader wrote ([With Nabiha, 2026](https://sweetdish.substack.com/p/why-letty-was-the-catharsis-i-needed); beware major spoilers if you click).
 
 ## Library program
-_Telephone Pictionary_. In the classic mashup of two games, players sit in a line and attempt to carry a message from one end to the other, alternating between writing and drawing. In this _Babel_-themed adaptation, participants may write in any language that they know. The guaranteed chaos and laughter is a great icebreaker for a more serious discussion of the novel.
+_Telephone Pictionary_. In the classic mashup of two games, players sit in a line and attempt to carry a message from one end to the other, alternating between writing and drawing. Play a _Babel_-themed adaptation, where participants may write in any language they know. The guaranteed chaos and laughter is a great icebreaker for a more serious discussion of the novel.
 
 ## Speed-round book talk
 Don’t let the page count intimidate you. Whether you’re drawn to fast-paced action, language puzzles, fantastical secret societies, or heartfelt conversations between friends, _Babel_ is worth your time.
@@ -43,7 +43,7 @@ Don’t let the page count intimidate you. Whether you’re drawn to fast-paced 
 This book centers characters resisting capitalism, racism, and empire. Violence in the plot makes it especially vulnerable to challenges. Librarians can defend the historical aspects of the book, as colonial violence and its resistance are facts of our world history, and the fictional elements help us understand how they happened.
 
 ## Reason for inclusion
-The events that make up _Babel’s_ plot occurred 200 years ago, but the novel’s themes are still relevant. Elite universities in the West are very much still tied up with exploit and military occupation; just two years ago, students at dozens of U.S. campuses protested their institutions’ investments in Israel (Zehner, 2024). Whether they choose to pursue higher education or not, curious teens will encounter questions about individual responsibility, collective action, and the role of violence — questions that _Babel_ addresses.
+The events that make up _Babel’s_ plot occurred 200 years ago, but the novel’s themes are still relevant. Elite universities in the West are very much still tied up with military exploit and occupation; just two years ago, students at dozens of U.S. campuses protested their institutions’ investments in Israel (Zehner, 2024). Whether they choose to pursue higher education or not, curious teens will encounter questions about individual responsibility, collective action, and the role of violence — questions that _Babel_ addresses.
 
 I also included the novel for its themes of friendship, loyalty, and grief. Fiction can be an excellent tool for processing difficult emotions (Beesley, 2017), and _Babel_ puts into narrative a specific kind of loss that I wanted to include in the collection.
 
@@ -63,6 +63,6 @@ Blackwell’s Bookshops. (2022, December 20). _An Interview with R.F. Kuang, aut
 
 HarperCollins Publishers. (n.d.). _Taipei Story by R.F. Kuang._ Retrieved June 24, 2026, from [https://www.harpercollins.com/pages/taipei-story](https://www.harpercollins.com/pages/taipei-story)
 
-With Nabiha. (2026, February 1). _Why Letty was the catharsis I needed._ Sweet Dish. https://sweetdish.substack.com/p/why-letty-was-the-catharsis-i-needed
+With Nabiha. (2026, February 1). _Why Letty was the catharsis I needed._ Sweet Dish. [https://sweetdish.substack.com/p/why-letty-was-the-catharsis-i-needed](https://sweetdish.substack.com/p/why-letty-was-the-catharsis-i-needed)
 
 Zehner, H. (2024, May 29). _The Gaza protests were a mask-off moment for American universities._ The Nation. [https://www.thenation.com/article/archive/university-war-machine-gaza-protest/](https://www.thenation.com/article/archive/university-war-machine-gaza-protest/)

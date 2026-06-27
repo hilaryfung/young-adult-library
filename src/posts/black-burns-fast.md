@@ -52,7 +52,7 @@ _Luthando’s photobooth_. Prepare a photo station with props, taking inspiratio
 Luthando studies hard and sticks with her best friend Jodie. She’s not the type to break rules, and she hasn’t thought about her sexuality. All that changes when she meets Ayanda, a super-cool new girl who… seems interested in her? The South African boarding school turns upside-down in this Afrobubblegum comedy and feel-good sapphic romance.
 
 ## Potential challenges
-Stories of queer people and people of color are frequently challenged (American Library Association, 2023), and this film depicts both. A queer romance takes center stage, and at several points, Black teens push back against their racist school administration.
+Stories of queer people and people of color are frequently challenged (American Library Association, 2023). This film has both. A queer romance takes center stage, and at several points, Black teens push back against their racist school administration.
 
 Asanda, the film director, spoke about the importance of positive, joyful representations for young Black and queer people. “I very much just wanted to make the type of film that I needed to see when I was at that age,” she said. “If I had known and I'd had that representation, I would have been a much happier person” (Scarborough, 2026).
 
