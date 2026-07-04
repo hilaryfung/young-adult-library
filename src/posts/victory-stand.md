@@ -50,7 +50,7 @@ You’ve probably seen the famous photograph. Two Black track-and-field athletes
 ## Potential challenges
 Books on Black history are often challenged, especially when Black characters dare to defend themselves. _Victory. Stand!_ shows Smith as he develops his politics, one time striking an elementary school classmate after the classmate makes a racist insult and later, organizing with Black Panthers who espouse revolution.
 
-Both racist terror and the multiplicity of responses to it are facts that have shaped the United States, and librarians should defend readers’ rights to access such historical depictions.
+Both racist terror and the multiplicity of responses to it are facts that have shaped the United States, and readers deserve access to all such historical depictions.
 
 ## Reason for inclusion
 This book does so many good things. It shows readers the history of sharecropping in the American South, of Black migration from Texas and Oklahoma to California, and of the civil rights and Black Power movements of the 1960s. It depicts young people finding their role in society while historic events unfold around them. It shows individual acts of courage alongside cooperation and collective action; it shows what difference a supportive person like Coach Winter can make. It’s educational, and it’s triumphant.

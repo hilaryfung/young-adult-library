@@ -6,7 +6,7 @@ creditUrl: https://www.berlinale.de/en/2026/programme/202606248.html
 postDate: June 24, 2026
 format: Film
 author: Sandulela Asanda (writer and director)
-bibliographicData: ['Starring Esihle Ndleleni, Mila Smith, Muadi Ilung, Khensani Khoza, Basetsana Motloung, and Nstimedi Gwangwa', 'South Africa, Uruntu Media, 2026', 1 hour, 40 minutes']
+bibliographicData: ['Starring Esihle Ndleleni, Mila Smith, Muadi Ilung, Khensani Khoza, Basetsana Motloung, and Nstimedi Gwangwa', 'South Africa, Uruntu Media, 2026', '1 hour, 40 minutes']
 publicationYear: 2026
 genreStatement: <em>Black Burns Fast</em> is a teen romantic comedy.
 genreTags: Comedy, Drama, Romance
@@ -59,7 +59,8 @@ Asanda, the film director, spoke about the importance of positive, joyful repres
 ## Reason for inclusion
 The collection needs this joyful representation of young Black lesbian romance, plus a touch of satire about South African society.
 
-## Watch the trailer!
+## Sneak preview
+★ Watch the trailer!
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1Rrj6VEBaco?si=5_otRz4CC25bmB54" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## References
