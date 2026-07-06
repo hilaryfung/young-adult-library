@@ -21,7 +21,7 @@ genreTags: 3D platformer, single-player, action-adventure
 Ages 10 and up.
 
 ## Summary 
-You’re Astro, a space robot whose ship has exploded, flinging your crewmates to faraway galaxies. You traverse five nebulas, each with a handful of planets, defeating obstacles to bring your fellow bots back to the safety of your ship — which happens to resemble the PlayStation DualSense controller you’re using to jump, punch, and fly your way through the game. You gain unique abilities, like sticky Frog Gloves, on some planets.
+You’re Astro, a space robot whose ship has exploded, flinging your crewmates to faraway galaxies. You traverse five nebulas, each with a handful of planets, defeating obstacles to bring your fellow bots back to the safety of your ship — which happens to resemble the PlayStation DualSense controller you’re using to jump, punch, and fly your way through the game. You gain unique abilities, like sticky Frog Gloves or a Mouse Suit that makes you tiny, on some planets.
 
 Near the end, you unlock a sixth nebula, the Lost Galaxy, and you can also go for a Platinum Trophy. You could sprint the game in 10 hours, but with hidden levels and special bots, the sequel to _Astro Bot Rescue Mission_ and _Astro’s Playroom_ will keep you playing for up to 18 (Gilliam, 2024). We don’t know when we’ll get another Astro game, but new content was added last July, and the game’s ending teases a future release: “See you in Astro’s next adventure!” (Becher, 2026).
 

@@ -3,12 +3,12 @@ title: Rocket League
 image: rocket-league.jpg
 credit: GameRant
 creditUrl: https://gamerant.com/rocket-league-air-dribble-guide-tips/
-postDate: July 4, 2026
+postDate: July 5, 2026
 format: Video game
 author: Psyonix
 bibliographicData: ['PC, PlayStation, Xbox, or Nintendo', 'ESRB Rating: Everyone']
 publicationYear: 2015
-genreStatement: Rocket League is a sports game.
+genreStatement: <em>Rocket League</em> is a sports game.
 genreTags: Sports, Single-player, Multiplayer
 ---
 
