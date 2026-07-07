@@ -3,7 +3,7 @@ title: "Cyberpunk: Edgerunners"
 image: cyberpunk-edgerunners.jpg
 credit: IMDb
 creditUrl: https://www.imdb.com/title/tt12590266/
-postDate: July 3, 2026
+postDate: July 6, 2026
 format: TELEVISION SERIES
 author: false
 bibliographicData: ['Netflix, 2022', '1 season, 10 episodes', 'TV-MA']
