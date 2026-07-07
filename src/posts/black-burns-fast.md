@@ -5,7 +5,7 @@ credit: Berlinale
 creditUrl: https://www.berlinale.de/en/2026/programme/202606248.html
 postDate: June 24, 2026
 format: Film
-author: Sandulela Asanda (writer and director)
+author: false
 bibliographicData: ['Starring Esihle Ndleleni, Mila Smith, Muadi Ilung, Khensani Khoza, Basetsana Motloung, and Nstimedi Gwangwa', 'South Africa, Uruntu Media, 2026', '1 hour, 40 minutes']
 publicationYear: 2026
 genreStatement: <em>Black Burns Fast</em> is a teen romantic comedy.
