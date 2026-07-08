@@ -13,7 +13,7 @@ genreTags: Fiction, Diasporic literature, Historical fiction, Realistic fiction
 ---
 
 ## Awards and honors
-* Winner, Asian Pacific American Librarians Association Young Adult award, [2024 to 2025](https://www.apalaweb.org/awards/literature-awards/winners/2024-2025-awards-winners/)
+* Young Adult Winner, Asian Pacific American Award for Literature, [2024 to 2025](https://www.apalaweb.org/awards/literature-awards/winners/2024-2025-awards-winners/)
 
 ## Reading level and interest level
 Age 12 and up, according to Penguin Random House (n.d.). 
