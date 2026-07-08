@@ -27,7 +27,7 @@ Pat Boonnitipat is a Thai director with Cantonese and Hakka ancestry (Yiting, 20
 ## Critical evaluation
 I’ve never seen anything like _How To Make Millions Before Grandma Dies_. The film reminded me of my family, not only because the characters are Thai Teochew, but because cultural specificities make the story feel universal. Mengju doesn’t want anything on her Iron Goddess altar to move; M plays handheld video games during Qingming at his grandfather’s grave.
 
-Assaratanakul’s acting embodies the tenderness and rebellion of young adulthood, while Seamkhum shows strength and sass in her debut role (The Nation, 2024). The film is sentimental, but it made me laugh, too. I’ll remember M’s mother Sew, despite her limited screentime, for her commentary on gender: “Sons inherit money, daughters inherit cancer.”
+Assaratanakul’s acting embodies the tenderness and rebellion of young adulthood, while Seamkhum shows strength and sass in her debut role (The Nation, 2024). The film is sentimental, but it made me laugh, too. I’ll remember M’s mother Sew, despite her limited screentime, for her commentary on gender: “Sons inherit the goods. Daughters get the genes.”
 
 ## Library program
 _Pomegranate time capsule._ In the film, Mengju has a pomegranate tree that was planted the same year M was born. Invite teens and their families to watch the movie at the library, then lead an activity where each teen researches the year they were born. What made front-page news? What pop hits came out? Can they find a local building that shares their age? If teens attend with older relatives, encourage them to talk about what the older family member remembers about the year the teen was born.
