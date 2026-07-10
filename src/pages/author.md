@@ -1,5 +1,5 @@
 ---
-title: Author Index
+title: Author and creator index
 navText: Author
 ---
 

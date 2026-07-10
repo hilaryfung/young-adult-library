@@ -1,5 +1,5 @@
 ---
-title: Genre Index
+title: Genre and theme index
 navText: Genre
 ---
 

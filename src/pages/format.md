@@ -1,15 +1,17 @@
 ---
-title: Format Index
+title: Format and medium index
 navText: Format
 ---
 
 # Format index
 
-## Audiobooks
+## Books - audio
 
-## Books in print
+## Books - prose and verse in print
 
 * <a href="{{ '/light-from-uncommon-stars' | url }}">_Light From Uncommon Stars_</a> by Ryka Aoki
+
+## Books - graphic novels in print
 
 ## Films
 

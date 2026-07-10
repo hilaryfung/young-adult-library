@@ -19,7 +19,6 @@ genreTags: Comedy, Drama, Romance
 Age 14 and up, per [Berlinale](https://www.berlinale.de/en/2026/programme/202606248.html).
 
 ## Plot summary 
-
 <div class="flexbox constrained post__diptych">
   <figure>
     <img src="{{ '/images/heart-eyes.jpg' | url }}" alt="">
@@ -39,7 +38,7 @@ Then Ayanda shows up. She’s cool, wealthy, experienced, and immediately joins 
 Sandulela Asanda is a filmmaker from the Eastern Cape of South Africa (Berlinale, n.d.). Her short film _Mirror Mirror_ screened at the 2023 Berlinale. _Black Burns Fast_ is her first feature film.
 
 ## Critical evaluation
-I watched _Black Burns Fast_ at Frameline, a queer film festival in San Francisco, and had a blast laughing and cheering with the audience. The movie includes a few genuinely heartwarming scenes, including a dinner at home where Luthando’s mother softens. The acting is fantastic; I would never have guessed that several of the girls were new to the camera (Popp, 2026). The chemistry in the friend group is undeniable.
+I watched _Black Burns Fast_ at Frameline, a queer film festival in San Francisco, and had a blast laughing and cheering with the audience. The movie includes a few genuinely heartwarming scenes, including a dinner at home where Luthando’s mother softens. The acting is fantastic; I would never have guessed that several of the actors were new to the camera (Popp, 2026). The chemistry in the friend group is undeniable.
 
 The film takes up serious topics but never gets too heavy. Asanda uses a fish-eye lens to poke fun of racist school administrators. A full-screen internet search — “How do I know I’m a lesbian?” — is a jab at compulsory heterosexuality. When Luthando’s mother finds out she’s been making out with Ayanda, she quips, “At least you don’t have to worry about me getting pregnant anymore!” 
 

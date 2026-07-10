@@ -16,7 +16,7 @@ genreTags: Fiction, Diasporic literature, Historical fiction, Realistic fiction
 * Young Adult Winner, Asian Pacific American Award for Literature, [2024 to 2025](https://www.apalaweb.org/awards/literature-awards/winners/2024-2025-awards-winners/)
 
 ## Reading level and interest level
-Age 12 and up, according to Penguin Random House (n.d.). 
+Age 12 and up, according to [Penguin Random House](https://www.penguinrandomhouse.com/books/688146/everything-we-never-had-by-randy-ribay/).
 
 ## Plot summary 
 Francisco Maghabol is an Ilocano teenager who leaves the Philippines after his father deserts their family. He finds work in Watsonville, California, but he soon finds that he can’t make enough to send money home, let alone to return to the Philippines himself. He stays, eventually becoming a leader in the 1960s farmworker movement. The novel tells his story alongside three generations of Maghabol stories that follow.
@@ -81,8 +81,6 @@ IMDb. (n.d.). _Ramon De Ocampo_. Retrieved June 21, 2026, from [https://www.imdb
 Lewis, R. (2023, February 8). Exclusive: _The CW's Kung Fu star JB Tadena takes fans into a day in his life._ Hello! [https://www.hellomagazine.com/film/20230208163799/kung-fu-season-3-jb-tadena-exclusive/](https://www.hellomagazine.com/film/20230208163799/kung-fu-season-3-jb-tadena-exclusive/)
 
 Parker, K., & Hurst, K. (2025, March 13). _The gender gap in teen experiences_. Pew Research Center. [https://www.pewresearch.org/social-trends/2025/03/13/the-gender-gap-in-teen-experiences/](https://www.pewresearch.org/social-trends/2025/03/13/the-gender-gap-in-teen-experiences/)
-
-Penguin Random House. (n.d.). _Everything We Never Had._ Retrieved June 21, 2026, from [https://www.penguinrandomhouse.com/books/688146/everything-we-never-had-by-randy-ribay/](https://www.penguinrandomhouse.com/books/688146/everything-we-never-had-by-randy-ribay/)
 
 U.S. Census Bureau. (n.d.). _California_. Retrieved June 21, 2026, from [https://data.census.gov/profile/California?g=040XX00US06#populations-and-people](https://data.census.gov/profile/California?g=040XX00US06#populations-and-people)
 

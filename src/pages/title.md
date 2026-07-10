@@ -1,5 +1,5 @@
 ---
-title: Title Index
+title: Title index
 navText: Title
 ---
 
