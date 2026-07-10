@@ -19,7 +19,7 @@ genreTags: Comedy, Drama
 Ages 13 and up.
 
 ## Plot summary 
-Mengju Saejiu lives in Bangkok’s Chinatown and wakes up before dawn every morning to sell congee. When she’s diagnosed with cancer, her three children barely conceal their interest in inheriting her house. To everyone’s surprise, Mengju’s grandson M ends up spending the most time with her. The college dropout and video game streamer moves into her house, learns to make congee, and takes her to chemotherapy appointments. Of course, he’s interested in his inheritance, too.
+Mengju Saejiew lives in Bangkok’s Chinatown and wakes up before dawn every morning to sell congee. When she’s diagnosed with cancer, her three children barely conceal their interest in inheriting her house. To everyone’s surprise, Mengju’s grandson M ends up spending the most time with her. The college dropout and video game streamer moves into her house, learns to make congee, and takes her to chemotherapy appointments. Of course, he’s interested in his inheritance, too.
 
 ## About the director
 Pat Boonnitipat is a Thai director with Cantonese and Hakka ancestry (Yiting, 2024). He moved back in with his grandmother while making this directorial debut (Merican, 2024). 
