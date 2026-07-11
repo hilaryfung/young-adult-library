@@ -3,7 +3,7 @@ title: How To Make Millions Before Grandma Dies
 image: how-to-make-millions.jpg
 credit: Netflix
 creditUrl: https://about.netflix.com/en/news/how-to-make-millions-before-grandma-dies-streams-september-12
-postDate: July 6, 2026
+postDate: July 10, 2026
 format: Film
 author: false
 bibliographicData: ['Starring Putthipong Assaratanakul and Usha Seamkhum', 'Thailand, Jor Kwang Films, 2024', '2 hours, 5 minutes']
@@ -19,7 +19,7 @@ genreTags: Comedy, Drama
 * Audience Award winner, New York Asian Film Festival, 2024
 
 ## Interest level
-Ages 13 and up. Listed as TV-PG on Netflix.
+Ages 13 and up. TV-PG, per Netflix.
 
 ## Plot summary 
 Mengju Saejiew lives in Bangkok’s Chinatown and wakes up before dawn every morning to sell congee. When she’s diagnosed with stomach cancer, her three children barely conceal their interest in inheriting her house. To everyone’s surprise, Mengju’s grandson M ends up spending the most time with her. The college dropout and video game streamer moves into her house, learns to make congee, and takes her to chemotherapy appointments. Of course, he’s interested in an inheritance, too.
@@ -44,13 +44,13 @@ When M’s grandmother is diagnosed with cancer, he moves into her Bangkok China
 There’s a passing mention of OnlyFans, a bit of crude grandma humor, and Chinese Buddhist practice. But I don’t anticipate serious challenges to this family-friendly film.
 
 ## Reason for inclusion
-I’d heard great things about this film. Now that I’ve seen it, I’m glad to have M’s story in the collection as a picture of growth and sacrifice in the face of uncertainty.
+The collection wouldn’t be complete without a movie that you can watch when you need a good cry. I’m also glad to include M’s story as a picture of growth and sacrifice.
 
 ## Extra!
 ★ Watch the official trailer…
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0lpXPWKpSY4?si=OV24-oNdm1e3MYr5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-★ …or watch videos on TikTok, where the movie became a trend because it made so many people cry.
+★ …or watch reactions on TikTok, where the movie turned into a trend because it made so many people cry.
 <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@elyshiaabegail/video/7376979553899646216" data-video-id="7376979553899646216" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@elyshiaabegail" href="https://www.tiktok.com/@elyshiaabegail?refer=embed">@elyshiaabegail</a> I cried so much that all of my make up were gone after the movie. Recomended 10&#47;10 <a title="howtomakemillionsbeforegrandmadies" target="_blank" href="https://www.tiktok.com/tag/howtomakemillionsbeforegrandmadies?refer=embed">#howtomakemillionsbeforegrandmadies</a> @Tirahazmannn @yangpalingserius <a target="_blank" title="♬ original sound  - Abby" href="https://www.tiktok.com/music/original-sound-Abby-7376979584707005200?refer=embed">♬ original sound  - Abby</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
 
 ## References

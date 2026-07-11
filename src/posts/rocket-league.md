@@ -6,7 +6,7 @@ creditUrl: https://gamerant.com/rocket-league-air-dribble-guide-tips/
 postDate: July 5, 2026
 format: Video game
 author: Psyonix
-bibliographicData: ['PC, PlayStation, Xbox, or Nintendo', 'ESRB Rating: Everyone']
+bibliographicData: ['Windows, PlayStation, Xbox, Nintendo']
 publicationYear: 2015
 genreStatement: <em>Rocket League</em> is a sports game.
 genreTags: Sports, Single-player, Multiplayer
@@ -19,7 +19,7 @@ genreTags: Sports, Single-player, Multiplayer
 * Best Independent Game and Best Sports/Racing Game, The Game Awards, [2015](https://thegameawards.com/rewind/year-2015)
 
 ## Interest level
-All ages.
+All ages. Rated “Everyone” by ESRB.
 
 ## Summary 
 Players control cars, and cars play soccer. That’s basically it. You can boost your car’s rocket power by running over markers on the field. You can drive the gigantic ball toward your opponent’s goal or attack other cars, playing defense to give your teammates a chance to score. 

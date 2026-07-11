@@ -6,7 +6,7 @@ creditUrl: https://www.playstation.com/en-us/games/astro-bot/
 postDate: July 4, 2026
 format: Video game
 author: Team Asobi
-bibliographicData: ['PlayStation 5', 'ESRB Rating: Everyone 10+']
+bibliographicData: ['PlayStation 5',]
 publicationYear: 2024
 genreStatement: Astro Bot is a 3D platform game.
 genreTags: 3D platformer, single-player, action-adventure
@@ -18,7 +18,7 @@ genreTags: 3D platformer, single-player, action-adventure
 * Game of the Year, D.I.C.E. Awards, [2025](https://www.interactive.org/awards/2025_28th_annual_dice_awards.asp)
 
 ## Interest level
-Ages 10 and up.
+Ages 10 and up. Rated “Everyone 10+” by ESRB.
 
 ## Summary 
 You’re Astro, a space robot whose ship has exploded, flinging your crewmates to faraway galaxies. You traverse five nebulas, each with a handful of planets, defeating obstacles to bring your fellow bots back to the safety of your ship — which happens to resemble the PlayStation DualSense controller you’re using to jump, punch, and fly your way through the game. You gain unique abilities, like sticky Frog Gloves or a Mouse Suit that makes you tiny, on some planets.
