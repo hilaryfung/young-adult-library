@@ -53,7 +53,7 @@ Books on Black history are often challenged, especially when Black characters da
 Both racist terror and the multiplicity of responses to it are facts that have shaped the United States, and readers deserve access to all such historical depictions.
 
 ## Reason for inclusion
-This book does so many good things. It shows readers the history of sharecropping in the American South, of Black migration from Texas and Oklahoma to California, and of the civil rights and Black Power movements of the 1960s. It depicts young people finding their role in society while historic events unfold around them. It shows individual acts of courage alongside cooperation and collective action; it shows what difference a supportive person like Coach Winter can make. It’s educational, and it’s triumphant.
+This book does so many good things. It shows readers the history of sharecropping in the American South, of Black migration from Texas and Oklahoma to California, and of the civil rights and Black Power movements of the 1960s. It depicts young people finding their role in society while historic events unfold around them. It shows individual acts of courage alongside cooperation and collective action; it shows what difference a supportive ally like Coach Winter can make. It’s educational, and it’s triumphant.
 
 ## Dive deeper!
 ★ Follow [the conversation](https://www.theroot.com/ryan-clark-is-right-black-athletes-shouldnt-play-where-2000104780) about a [growing call](https://www.pbs.org/newshour/politics/naacp-calls-for-boycott-of-southern-college-sports-programs-over-voting-rights) for Black athletes to boycott Southern universities where voting rights are threatened.

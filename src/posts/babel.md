@@ -1,4 +1,4 @@
----
+c---
 title: "Babel, or the Necessity of Violence: An Arcane History of the Oxford Translators’ Revolution"
 image: babel.jpg
 credit: HarperCollins
@@ -29,7 +29,7 @@ R. F. Kuang is the author of the Poppy War trilogy, _Yellowface_, and _Taipei St
 ## Critical evaluation
 I fell in love with _Babel_ as quickly as Robin with Ramy on their first day at Oxford. Sure, the premise sounds familiar. An orphaned teen finds everything he dreamed of at a magical boarding school, then has to contend with its evil undercurrents. But _Babel_ is wholly original, and its moral questions are much more complex than _Harry Potter’s_, making it more interesting and more reflective of the real world. _Babel_ is less about good versus evil than about humans — us messy containers of love, grief, memory, and desire — identifying our true convictions. It’s an alternate history, and it’s a field guide for young people of color navigating predominantly white institutions today.
 
-Kuang’s prose is snarky, nerdy, playful, and touching. I found the Victorian pastiche (Blackwell’s Bookshops, 2022) is enjoyable. Her worldbuilding is grounded in research of world languages and in true events from the Haitian Revolution to the British abolition of slavery to the Opium Wars. From this foundation, it takes only a touch of imagination for the magic of silverworking to shine.
+Kuang’s prose is snarky, nerdy, playful, and touching. I found the Victorian pastiche (Blackwell’s Bookshops, 2022) enjoyable. Her worldbuilding is grounded in research of world languages and in true events from the Haitian Revolution to the British abolition of slavery to the Opium Wars. From this foundation, it takes only a touch of imagination for the magic of silverworking to shine.
 
 Part of me wishes Victoire and Ramy had gotten more airtime, but I appreciate what Kuang did with Robin’s journey of identity and especially how she wrote Letty — <span class="spoiler">how she reveals the true violence beneath a young, white, liberal woman’s facade</span>. “It’s crazy it took me almost 20 years of reading to find an experience I deal with almost constantly in the character of Letty,” one reader wrote ([With Nabiha, 2026](https://sweetdish.substack.com/p/why-letty-was-the-catharsis-i-needed); beware major spoilers if you click).
 
