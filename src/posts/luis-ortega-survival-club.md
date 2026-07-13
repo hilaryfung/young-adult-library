@@ -29,7 +29,7 @@ Sonido Reyes is best known for _The Lesbiana’s Guide To Catholic School,_ whic
 Reyes enjoys dancing, singing, and playing dungeons and dragons; you’ll see these joys reflected in _The Luis Ortega Survival Club._
 
 ## Critical evaluation
-The novel’s plot twists didn’t work for me; I found myself foreseeing how each of the “survival club’s” attempts at revenge would go. But the writing still made my heart swell, and that’s a testament to Reyes’ well developed characters. Ariana’s voice rang true in the first-person narration. I sympathized with her internal dialogue as she navigated an entirely overwhelming and unfair situation, made more confusing by her autism.
+The novel’s plot twists didn’t work for me; I found myself foreseeing how each of the “survival club’s” attempts at revenge would go. But the writing still made my heart swell, and that’s a testament to Reyes’ well developed characters. Ariana’s voice rang true in the first-person narration. I sympathized with her internal dialogue as she navigated an entirely unfair situation, made more overwhelming by her autism.
 
 The relationships and dialogue between characters was effective, too. I felt myself healing alongside Ariana as she slowly opened up to her new friends throughout the book. But it was her relationship with her parents that really got me. At one point, after Ariana’s been depressed for weeks, her dad tries to get her to tell him what happened. “Was it with a boy?” he asks. “Do I need to whoop somebody’s ass?” Shortly after, Ariana challenges her dad to pick her up on piggyback like he did when she was much younger. He plays along, and the juxtaposition of serious and playful scenes builds a portrait of their quickly changing but ever loving relationship.
 
