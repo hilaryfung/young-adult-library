@@ -41,7 +41,7 @@ _High Spirits_ takes us from a Washington Heights dry cleaner to a small-town ge
 _High Spirits_ might be challenged for its discussion of magic, queerness, and drugs. Gun violence and sexual assault are threatened, but not depicted. Librarians should defend these themes, because they are authentic elements of teen life, told in Gomera-Tavarez’s distinct creative voice.
 
 ## Reason for inclusion
-_High Spirits’_ length and reading level make it one of the most accessible titles in this collection. The writing is fresh, and the short story format is fun.
+_High Spirits’_ snappy length and reading level make it one of the most accessible titles in this collection. The writing is fresh, and the short story format is fun.
 
 ## Extra!
 Watch Gomera-Tavarez read “Colmado,” one of her short stories, followed by a conversation with Angela Abreu, founder of the Dominican Writers Association.
