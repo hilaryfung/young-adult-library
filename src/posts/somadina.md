@@ -34,7 +34,7 @@ This magical world is rooted in Igbo culture. Dịbịas mediate between spirits
 I saw myself in Sọmadịna’s journey, too. I felt her pain when her mother called her an abomination. I rooted for her as she struggled through external and internal shame and wrestled with newfound power. I thought about taboo, restoration, and justice, about liberation and healing in community.
 
 ## Library program
-Split Sea Fishbowl. After teens have read the book, play a version of the classic party game Fishbowl, adapted for the library. Write characters and concepts from _Somadina_ on small index cards, and put them in a bowl. Each teen will pick a phrase from the bowl and try to get teammates to guess what it is. Wilson (2024) provides a detailed explanation of the game, but you might find that teens want to play the charade round before the one-word round. Below is an incomplete list of phrases that you might use.
+_Fishbowl._ After teens have read the book, play a version of the classic party game Fishbowl, adapted for the library. Write characters and concepts from _Somadina_ on small index cards, and put them in a bowl. Each teen will pick a phrase from the bowl and try to get teammates to guess what it is. Wilson (2024) provides a detailed explanation of the game, but you might find that teens want to play the charade round before the one-word round. Below is an incomplete list of phrases that you might use.
 
 * Sọmadịna
 * Jayaike
@@ -57,7 +57,7 @@ _Somadina_ includes elements of magic and West African indigenous spirituality. 
 Unfortunately, many teens feel the most shame from those closest to them. _Somadina_ explores that experience, showing how a young person might navigate it, and weaving in West African culture.
 
 ## Extra!
-Author Claire Linney recommends Somadina, and three other YA books inspired by West African mythology.
+★ Author Claire Linney recommends _Somadina_ alongside three other YA books inspired by West African mythology. One is set in San Francisco!
 
 <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@claire_linney/video/7653142991774829846" data-video-id="7653142991774829846" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@claire_linney" href="https://www.tiktok.com/@claire_linney?refer=embed">@claire_linney</a> <p>West African mythology inspired fantasy in young adult books. 📕Goldenborn: Book 1 by Ama Osofua Lieb (for ages 12+) AD|PR Gifted by @scholastic_uk  📕Somadina by Akwaeke Emezi 📕Lionheart Girl by Yaba Badoe 📕Call of the Dragon by Natasha Bowen</p> <a target="_blank" title="♬ original sound - Claire Linney Author" href="https://www.tiktok.com/music/original-sound-7653143015216745238?refer=embed">♬ original sound - Claire Linney Author</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
 
