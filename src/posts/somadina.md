@@ -3,7 +3,7 @@ title: Somadina
 image: somadina.jpg
 credit: Akwaeke Emezi
 creditUrl: https://www.akwaeke.com/somadina
-postDate: TK
+postDate: July 14, 2026
 format: Book
 author: Akwaeke Emezi
 bibliographicData: ['ISBN: 9780593309070', 'Alfred A. Knopf, 2025']
@@ -29,7 +29,7 @@ Akwaeke Emezi is the author of young adult books _Pet_ and _Bitter,_ as well as 
 ## Critical evaluation
 With simple, piercing words, Emezi paints vivid scenes in the pages of _Somadina_. “I was shaking as if cold water had replaced all the blood in my body,” the main character says when she’s scared. Her sister Nkadi folds the earth to speed up her travel, straining as if “fighting a great wind.” Her best friend Ụwafụlamiro wonders at the soaring trees and golden monkeys of the Sacred Forest. 
 
-This magical world is rooted in Igbo culture. Dịbịas mediate between spirits and humans, and characters pray to Ala, the female earth deity. Sọmadịna’s exile draws from the experience of the author, who lives in the U.S. and can’t safely return to their Nigerian hometown in a queer and trans body (Emezi, 2025). The Starvation War recalls the Biafran genocide, in which Emezi’s grandfather was killed.
+This magical world is rooted in Igbo culture. Dịbịas mediate between spirits and humans, and characters pray to Ala, the female earth deity (Obi-Onwurah, 2026). Sọmadịna’s exile draws from the experience of the author, who lives in the U.S. and can’t safely return to their Nigerian hometown in a queer and trans body (Emezi, 2025). The Starvation War recalls the Biafran genocide, in which Emezi’s grandfather was killed.
 
 I saw myself in Sọmadịna’s journey, too. I felt her pain when her mother called her an abomination. I rooted for her as she struggled through external and internal shame and wrestled with newfound power. I thought about taboo, restoration, and justice, about liberation and healing in community.
 
@@ -54,7 +54,7 @@ Sọmadịna is terrified. It’s normal for people in her town to develop magic
 _Somadina_ includes elements of magic and West African indigenous spirituality. Libraries should defend these narratives of non-Western cultural practice, as they help readers expand their imaginations and understand their own experiences.
 
 ## Reason for inclusion
-Unfortunately, many teens feel the most shame from those closest to them. _Somadina_ explores that experience, showing how a young person might navigate it, and weaving in West African culture.
+Unfortunately, many teens experience shame and rejection from their families, or from the people closest to them. _Somadina_ explores that experience, showing how a young person might get through it, while elegantly weaving in West African culture.
 
 ## Extra!
 ★ Author Claire Linney recommends _Somadina_ alongside three other YA books inspired by West African mythology. One is set in San Francisco!
