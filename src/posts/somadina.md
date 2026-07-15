@@ -31,10 +31,10 @@ With simple, piercing words, Emezi paints vivid scenes in the pages of _Somadina
 
 This magical world is rooted in Igbo culture. Dịbịas mediate between spirits and humans, and characters pray to Ala, the female earth deity (Obi-Onwurah, 2026). Sọmadịna’s exile draws from the experience of the author, who lives in the U.S. and can’t safely return to their Nigerian hometown in a queer and trans body (Emezi, 2025). The Starvation War recalls the Biafran genocide, in which Emezi’s grandfather was killed.
 
-I saw myself in Sọmadịna’s journey, too. I felt her pain when her mother called her an abomination. I rooted for her as she struggled through external and internal shame and wrestled with newfound power. I thought about taboo, restoration, and justice, about liberation and healing in community.
+I saw myself in Sọmadịna’s journey, too. I felt her pain when her mother called her an abomination. I rooted for her as she struggled through internal and external shame and wrestled with newfound power. I thought about quick acts of justice and slow acts of restoration. I thought about the function of taboo, about liberation and healing in community.
 
 ## Library program
-_Fishbowl._ After teens have read the book, play a version of the classic party game Fishbowl, adapted for the library. Write characters and concepts from _Somadina_ on small index cards, and put them in a bowl. Each teen will pick a phrase from the bowl and try to get teammates to guess what it is. Wilson (2024) provides a detailed explanation of the game, but you might find that teens want to play the charade round before the one-word round. Below is an incomplete list of phrases that you might use.
+_Fishbowl._ After teens have read the book, play a version of the classic party game Fishbowl, adapted for the library. Write characters, places, and concepts from _Somadina_ on small index cards, and place them in a bowl. Each teen will pick a phrase from the bowl and try to get teammates to guess what it is. Wilson (2024) provides a detailed explanation of the game, but you might find that teens want to play the charade round before the one-word round. Below is an incomplete list of phrases that you might use.
 
 * Sọmadịna
 * Jayaike
@@ -48,13 +48,13 @@ _Fishbowl._ After teens have read the book, play a version of the classic party 
 * The Split Sea
 
 ## Speed-round book talk
-Sọmadịna is terrified. It’s normal for people in her town to develop magical gifts, but hers seems shameful and horrid. It strikes fear through her community, and it separates her from her twin brother, the one person she always trusted. With elements of action, fantasy, and mystery — and a magical world based in Igbo culture — _Somadina_ dives into the depths of shame, but it also carries us out.
+Sọmadịna is terrified. It’s normal for people in her town to develop magical gifts, but hers seems shameful and horrid. It strikes fear through her community, and it separates her from her twin brother, the one person she always trusted. With elements of action, fantasy, and mystery — and a magical world based in Igbo culture — _Somadina_ dives into the depths of shame, and then it carries us back out.
 
 ## Potential challenges
-_Somadina_ includes elements of magic and West African indigenous spirituality. Libraries should defend these narratives of non-Western cultural practice, as they help readers expand their imaginations and understand their own experiences.
+_Somadina_ includes elements of magic and West African indigenous spirituality. Libraries should defend these narratives of non-Western cultural practice, as they help readers grow their imaginations and understand their own experiences.
 
 ## Reason for inclusion
-Unfortunately, many teens experience shame and rejection from their families, or from the people closest to them. _Somadina_ explores that experience, showing how a young person might get through it, while elegantly weaving in West African culture.
+Unfortunately, many teens experience shame and rejection from their families, or from the people closest to them. _Somadina_ explores that experience, showing how a young person might get through it.
 
 ## Extra!
 ★ Author Claire Linney recommends _Somadina_ alongside three other YA books inspired by West African mythology. One is set in San Francisco!
