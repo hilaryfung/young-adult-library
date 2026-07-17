@@ -54,7 +54,7 @@ Sọmadịna is terrified. It’s normal for people in her town to develop magic
 _Somadina_ includes elements of magic and West African indigenous spirituality. Libraries should defend these narratives of non-Western cultural practice, as they help readers grow their imaginations and understand their own experiences.
 
 ## Reason for inclusion
-Unfortunately, many teens experience shame and rejection from their families, or from the people closest to them. _Somadina_ explores that experience, showing how a young person might get through it.
+Unfortunately, many teens experience shame and rejection from their families, or from the people closest to them. _Somadina_ explores that experience, showing how a young person might get through it. I’ve also selected this title because it’s set entirely in West Africa — a rarity in U.S. publishing.
 
 ## Extra!
 ★ Author Claire Linney recommends _Somadina_ alongside three other YA books inspired by West African mythology. One is set in San Francisco!

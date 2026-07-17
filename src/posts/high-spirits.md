@@ -37,7 +37,7 @@ Funny, strange, and heartfelt, these stories took me to my childhood. I thought 
 _Aribel’s dominoes._ Play a few rounds of dominoes, following [Dominican rules](https://fichaflow.com/learn/guide/). Encourage teens to think about how they communicate with their partner across the table. Discuss the role of intuition in the book and in the game.
 
 ## Speed-round book talk
-_High Spirits_ takes us from a Washington Heights dry cleaner to a small-town general store outside Santo Domingo. The collection of 11 short stories is brewed with a dash of ancestral magic, but it’s also grounded in human struggle. Gomera-Tavarez explores family, fate, and mental illness. Her debut is refreshing, like ocean spray on a hot day.
+_High Spirits_ takes us from a Washington Heights dry cleaner to a small-town general store outside Santo Domingo. The collection of 11 short stories is brewed with a dash of ancestral magic, but it’s also grounded in human struggle. Gomera-Tavarez explores family, fate, and mental illness in a refreshing debut.
 
 ## Potential challenges
 _High Spirits_ might be challenged for its discussion of magic, queerness, and drugs. Gun violence and sexual assault are threatened, but not described in detail. Librarians should defend these themes, because they are authentic elements of teen life, told in Gomera-Tavarez’s distinct creative voice.
