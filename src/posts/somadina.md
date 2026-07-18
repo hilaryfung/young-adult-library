@@ -34,7 +34,7 @@ This magical world is rooted in Igbo culture. Dịbịas mediate between spirits
 I saw myself in Sọmadịna’s journey, too. I felt her pain when her mother called her an abomination. I rooted for her as she struggled through internal and external shame and wrestled with newfound power. I thought about quick acts of justice and slow acts of restoration. I thought about the function of taboo, about liberation and healing in community.
 
 ## Library program
-_Fishbowl._ After teens have read the book, play a version of the classic party game Fishbowl, adapted for the library. Write characters, places, and concepts from _Somadina_ on small index cards, and place them in a bowl. Each teen will pick a phrase from the bowl and try to get teammates to guess what it is. Wilson (2024) provides a detailed explanation of the game, but you might find that teens want to play the charade round before the one-word round. Below is an incomplete list of phrases that you might use.
+_Fishbowl._ After teens have read the book, play a version of the classic party game Fishbowl, adapted for the library. Write characters, places, and concepts from _Somadina_ on small index cards, and place them in a bowl. Each teen will pick a phrase from the bowl and try to get teammates to guess what it is without saying the phrase. Wilson (2024) provides a detailed explanation of the game, but you might find that teens want to play the charade round before the one-word round. Below is an incomplete list of phrases that you might use.
 
 * Sọmadịna
 * Jayaike
@@ -51,7 +51,7 @@ _Fishbowl._ After teens have read the book, play a version of the classic party 
 Sọmadịna is terrified. It’s normal for people in her town to develop magical gifts, but hers seems shameful and horrid. It strikes fear through her community, and it separates her from her twin brother, the one person she always trusted. With elements of action, fantasy, and mystery — and a magical world based in Igbo culture — _Somadina_ dives into the depths of shame, and then it carries us back out.
 
 ## Potential challenges
-_Somadina_ includes elements of magic and West African indigenous spirituality. Libraries should defend these narratives of non-Western cultural practice, as they help readers grow their imaginations and understand their own experiences.
+Three of Emezi’s books have faced challenges (American Library Association, 2026). Their YA title _Pet_ saw 37 censorship attempts and 13 bans between 2021 to 2025. _Somadina_ will likely be no different, as it includes queer characters, elements of magic, and West African indigenous spirituality. Libraries should defend these narratives of non-Western cultural practice, as they help readers grow their imaginations and understand their own experiences.
 
 ## Reason for inclusion
 Unfortunately, many teens experience shame and rejection from their families, or from the people closest to them. _Somadina_ explores that experience, showing how a young person might get through it. I’ve also selected this title because it’s set entirely in West Africa — a rarity in U.S. publishing.
@@ -62,6 +62,8 @@ Unfortunately, many teens experience shame and rejection from their families, or
 <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@claire_linney/video/7653142991774829846" data-video-id="7653142991774829846" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@claire_linney" href="https://www.tiktok.com/@claire_linney?refer=embed">@claire_linney</a> <p>West African mythology inspired fantasy in young adult books. 📕Goldenborn: Book 1 by Ama Osofua Lieb (for ages 12+) AD|PR Gifted by @scholastic_uk  📕Somadina by Akwaeke Emezi 📕Lionheart Girl by Yaba Badoe 📕Call of the Dragon by Natasha Bowen</p> <a target="_blank" title="♬ original sound - Claire Linney Author" href="https://www.tiktok.com/music/original-sound-7653143015216745238?refer=embed">♬ original sound - Claire Linney Author</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
 
 ## References
+American Library Association. (2026, February 13). Censorship Search Portal. [https://www.ala.org/bbooks/censorship-search-portal](https://www.ala.org/bbooks/censorship-search-portal)
+
 Emezi, A. (2025). _Somadina._ Alfred A. Knopf. 
 
 Obi-Onwurah, C. (2026, April 13). _Igbo Traditional Religion: Beliefs, Practices, and Spiritual System._ Nnewi City. [https://nnewicity.com/igbo-traditional-religion-explained/](https://nnewicity.com/igbo-traditional-religion-explained/)
