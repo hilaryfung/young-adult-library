@@ -8,7 +8,7 @@ format: Series
 author: false
 bibliographicData: ['Starring Simone Biles', 'Netflix, 2024', '1 season, 4 episodes']
 publicationYear: 2024
-genreStatement: <em>Simone Biles Rising</em> is a sports documentary miniseries.
+genreStatement: <em>Simone Biles Rising</em> is a sports documentary series.
 genreTags: Documentary, Sports
 ---
 
@@ -34,9 +34,7 @@ You don’t need me to tell you that Simone Biles is an inspiration. She’s mod
 The beauty of this documentary is that it’s not just about Biles. It shows her family watching the Tokyo games on TV, and her mother Nellie braiding her hair when she starts going back to the gym. Her husband, NFL athlete Jonathan Owens, celebrates her success every chance he gets. I hadn’t really thought about how much of this was missing at the 2020 games; because of the COVID-19 pandemic, Biles was deprived of the network that kept her safe. This series is about family and community as much as it is about mental health and sports. It’s worth a watch.
 
 ## Library program
-_Glitter inspiration._ 
-make glitter posters for your fav athlete
-mental health discussion?
+_Bedazzled inspiration._ Simone Biles has a tattoo quoting a Maya Angelou poem: “And Still I Rise.” What writers, athletes, or famous people inspire you? Screen an episode of _Simone Biles Rising,_ then let teens decorate pre-made journals with quotes and images that keep them going. Provide rhinestones, glitter, and ribbons for extra fun.
 
 ## Speed-round ~~book~~ series talk
 Simone Biles surprised spectators around the world when she stepped down from the 2020 Olympics. _Simone Biles Rising_ takes us behind the scenes of her decision, interviewing her mom, husband, teammates, and iconic gymnasts like Betty Okino and Dominique Dawes. Biles recovers mentally and physically, and by the end of the short documentary series, we watch her inspiring return to the Olympic stage.
@@ -47,10 +45,10 @@ In the series, Simone Biles speaks against sexual abuse and challenges beauty st
 ## Reason for inclusion
 This documentary miniseries is an inspiring reminder that the strongest people know when to take a mental health break.
 
-## Extra!
-★ Relive Simone Biles’ glorious return at the Paris Olympics.
+## Sneak preview
+★ Watch the trailer for the second half of the _Simone Biles Rising_ series.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HCPCwstmObY?si=i5VB6gggRhlJDMoP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KAwiYsOm74g?si=cA_uCO7rAV6lDcN_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## References
 Dye, N. (2025, June 10). _Simone Biles Speaks Out After Slamming Riley Gaines for Her Views on Transgender Athletes._ People. [https://people.com/simone-biles-speaks-out-slamming-riley-gaines-transgender-athletes-11751652](https://people.com/simone-biles-speaks-out-slamming-riley-gaines-transgender-athletes-11751652)
