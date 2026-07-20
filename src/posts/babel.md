@@ -31,7 +31,7 @@ I fell in love with _Babel_ as quickly as Robin with Ramy on their first day at 
 
 Kuang’s prose is snarky, nerdy, playful, and touching. I found the Victorian pastiche (Blackwell’s Bookshops, 2022) enjoyable. Her worldbuilding is grounded in research of world languages and in true events from the Haitian Revolution to the British abolition of slavery to the Opium Wars. From this foundation, it takes only a touch of imagination for the magic of silverworking to shine.
 
-Part of me wishes Victoire and Ramy had gotten more airtime, but I appreciate what Kuang did with Robin’s journey of identity and especially how she wrote Letty — <span class="spoiler">how she reveals the true violence beneath a young, white, liberal woman’s facade</span>. “It’s crazy it took me almost 20 years of reading to find an experience I deal with almost constantly in the character of Letty,” one reader wrote ([With Nabiha, 2026](https://sweetdish.substack.com/p/why-letty-was-the-catharsis-i-needed); beware major spoilers if you click).
+Part of me wishes Victoire and Ramy had gotten more airtime, but I appreciate what Kuang did with Robin’s journey of identity and especially how she wrote Letty — <span class="spoiler">how she reveals the true violence beneath a young, white, liberal woman’s innocent facade</span>. “It’s crazy it took me almost 20 years of reading to find an experience I deal with almost constantly in the character of Letty,” one reader wrote ([With Nabiha, 2026](https://sweetdish.substack.com/p/why-letty-was-the-catharsis-i-needed); beware major spoilers if you click).
 
 ## Library program
 _Telephone Pictionary_. In the classic mashup of two games, players sit in a line and attempt to carry a message from one end to the other, alternating between writing and drawing. Play a _Babel_-themed adaptation, where participants may write in any language they know. The guaranteed chaos and laughter is a great icebreaker for a more serious discussion of the novel.
@@ -43,9 +43,11 @@ Don’t let the page count intimidate you. Whether you’re drawn to fast-paced 
 This book centers characters resisting capitalism, racism, and empire. Violence in the plot makes it especially vulnerable to challenges. Librarians can defend the historical aspects of the book, as colonial violence and its resistance are facts of our world history, and the fictional elements help us understand how they happened.
 
 ## Reason for inclusion
-The events that make up _Babel’s_ plot occurred 200 years ago, but the novel’s themes are still relevant. Elite universities in the West are very much still tied up with military exploit and occupation; just two years ago, students at dozens of U.S. campuses protested their institutions’ investments in Israel (Zehner, 2024). Whether they choose to pursue higher education or not, curious teens will encounter questions about individual responsibility, collective action, and the role of violence — questions that _Babel_ addresses.
+The events that make up _Babel’s_ plot occurred 200 years ago, but the novel’s themes are still relevant. Elite universities in the West are very much still tied up with military exploit and occupation; just two years ago, students at dozens of U.S. campuses protested their institutions’ investments in Israel (Zehner, 2024). 
 
-I also included the novel for its themes of friendship, loyalty, and grief. Fiction can be an excellent tool for processing difficult emotions (Beesley, 2017), and _Babel_ puts into narrative a specific kind of loss that I wanted to include in the collection.
+At the same time, communities across the country are grappling with generative AI, a technology that, like silverworking, delivers convenience while extracting resources and fostering dependence. Whether they choose to pursue higher education or not, curious teens will encounter questions about technology, individual responsibility, collective action, and the role of violence — questions that _Babel_ addresses.
+
+Finally, I included the novel for its themes of friendship, loyalty, and grief. Fiction can be an excellent tool for processing difficult emotions (Beesley, 2017), and _Babel_ puts into narrative a specific kind of loss that I wanted to include in the collection.
 
 ## Extra!
 ★ Behind the scenes: Kuang takes her published book to the Oxford cafe where she wrote much of it.
