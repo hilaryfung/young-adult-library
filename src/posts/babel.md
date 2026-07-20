@@ -18,7 +18,7 @@ genreTags: Fiction, Diasporic literature, Fantasy and magical realism, Historica
 * Winner, Nebula Award for Best Novel, [2022](https://nebulas.sfwa.org/award-year/2022/)
 
 ## Reading level and interest level
-Ages 17 and up. The novel was written for adults, but the coming-of-age story has special appeal for young adults.
+Age 16 and up. The novel was written for adults, but the coming-of-age story has special appeal for young adults.
 
 ## Plot summary 
 A young Robin Swift is shuttled from his native Canton to attend Oxford University’s Royal Institute of Translation, also known as Babel. There, he’s enchanted by friendship, scholarship, and silver, which in this version of Victorian England is a magical metal that fortifies everything from staircases to steamships. But silver needs translators to work its power, and as Britain gets hungrier, more desperate to balance its trade deficit, Robin finds he can't do his work without betraying his homeland.

@@ -36,7 +36,7 @@ _Astro Bot_ is relaxing and fun. I felt wonder exploring each of its expansive w
 ## Library program
 _PlayStation Party and Scavenger Hunt_. Decorate your library with Astro-inspired props made of cardboard, construction paper, and balloons. If the library has a PlayStation 5, set up _Astro Bot_ alongside other family-friendly PlayStation games. While patrons wait to play, send them on a scavenger hunt for bots (also made of cardboard) hidden around the library. With a child-friendly activity and nostalgic PlayStation materials, this program provides true all-ages fun.
 
-## Speed-round book talk
+## Speed-round ~~book~~ game talk
 When real-world problems are just too much, sink into Astro’s universe, where you can bounce, glide, and spin-attack your way past any obstacle. _Astro Bot_ has stunning visuals, perfectly executed physics, and cutting-edge haptics. It’s a fun, creative, and relaxing escape.
 
 ## Potential challenges

@@ -11,7 +11,7 @@ publicationYear: 2022
 genreStatement: "<em>Cyberpunk: Edgerunners</em> is an anime series."
 genreTags: Anime, Cyberpunk, Dystopian fiction, Science fiction and speculative fiction
 ---
-
+n
 ## Awards and honors
 * Anime of the Year, Crunchyroll, [2023](https://www.crunchyroll.com/animeawards/pastwinners/)
 * Best Voice Artist Performance (English) for Zach Aguilar as David Martinez, Crunchyroll, [2023](https://www.crunchyroll.com/animeawards/pastwinners/)
@@ -35,7 +35,7 @@ I tolerated these technofeudalist horrors because despite them all, David and hi
 ## Library program
 _Anime club._ I wouldn’t screen _Cyberpunk: Edgerunners_ at a library, especially not around younger high schoolers. But plenty of anime series are more appropriate and streamable on Netflix or Crunchyroll. Get a license, make some popcorn, and let teens relax with _Pokemon_, _Dragon Ball Z_, or _Frieren_.
 
-## Speed-round book talk
+## Speed-round ~~book~~ show talk
 In a futuristic and dystopian version of coastal California, people hack their bodies to keep up with capitalistic demands, to defend themselves against gang violence, or just to experience a few minutes of pleasure. When 17-year-old David Martinez and his mom get caught in a street accident, emergency responders see that they can’t pay for medical services and leave them hanging. The anime series follows David as he tries to survive these harsh conditions as an “edgerunning” outlaw.
 
 ## Potential challenges

@@ -15,7 +15,7 @@ genreTags: Alternative, Rock, Pop
 None as of publication
 
 ## Interest level
-Interest level: Age 14 and up.
+Age 14 and up.
 
 ## Summary
 In her debut EP, Leyla Ebrahimi sings, shouts, and wails her way through heartbreak. She yearns desperately on the first track — “Maybe in another life, I'll get to have you” — then admits she was wrong on the third — “I’m so messed up baby / I shouldn’t have kept you here.”

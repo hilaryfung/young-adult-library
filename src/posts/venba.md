@@ -48,7 +48,7 @@ My favorite thing about _Venba_ is that it plays from the mother’s perspective
 ## Library program
 _Bind your own cookbook._ Invite teens to bring their family recipes to the library. Help them design recipe pages, then demonstrate a few simple bookbinding methods using staples, tape, or needle and thread. Send them home with completed cookbooks, leaving a few pages blank for future recipes.
 
-## Speed-round book talk
+## Speed-round ~~book~~ game talk
 Venba and Paavalan immigrate from India to Canada, hoping to give their son Kavin the best possible opportunities. Cooking becomes a way for Venba to stay connected to home, and a way to pass her heritage onto Kavin, but she needs to decode the recipes in her oil-stained cookbook — and you can help by solving colorful kitchen puzzles. _Venba_ is a celebration of Tamil culture, but you don’t need to know that to enjoy its heartwarming narrative, satisfying gameplay, and stellar soundtrack.
 
 ## Potential challenges

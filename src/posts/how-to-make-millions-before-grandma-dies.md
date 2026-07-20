@@ -32,12 +32,12 @@ Pat Boonnitipat is a Thai director with Cantonese and Hakka ancestry (Yiting, 20
 
 Seamkhum shows strength and sass in her debut role (The Nation, 2024), and Sarinrat Thomas deserves mention for her dutiful portrayal of a daughter and mom trapped between family members. The main story is M’s growth, which Assaratanakul embodies with subdued but expressive acting, fixing his face with selfish rebellion in the first half of the movie before morphing toward tender care.
 
-My family is Teochew Thai, and I appreciated the film’s cultural specificity. “The rice grains have become cooked rice,” Mengju says in Teochew <span class="spoiler">after her doctor recommends she end her chemotherapy treatment.</span> “It’s a saying that means accept what can’t be changed,” M’s mother explains in Thai. It’s with these detailed strokes that Boonnitipat paints universal themes of individual desire, familial duty, and the fleeting nature of life that anyone can enjoy, even if they’re watching Netflix with subtitles an ocean away.
+My family is Teochew Thai, and I appreciated the film’s cultural specificity. “The rice grains have become cooked rice,” Mengju says in Teochew <span class="spoiler">after her doctor recommends she end her chemotherapy treatment.</span> M’s mother explains in Thai: “It’s a saying that means accept what can’t be changed.” With these detailed strokes, Boonnitipat paints big themes of individual desire, familial duty, and the fleeting nature of life — themes that anyone can relate to, even if they’re watching Netflix with subtitles an ocean away.
 
 ## Library program
 _Pomegranate time capsule._ In the film, Mengju has a pomegranate tree that was planted the same year M was born. Invite teens and their families to watch the movie at the library, then lead an activity where each teen researches the year they were born. What made front-page news? What pop hits came out? Can they find a local building that shares their age? If teens attend with older relatives, encourage them to talk about what the older family member remembers about the year the teen was born.
 
-## Speed-round book talk
+## Speed-round ~~book~~ movie talk
 When M’s grandmother is diagnosed with cancer, he moves into her Bangkok Chinatown home, hoping to earn favor. But he’s not the only one who wants to inherit the house, and grandma can tell. This touching family drama with a dash of humor sold out theaters across Southeast Asia.
 
 ## Potential challenges

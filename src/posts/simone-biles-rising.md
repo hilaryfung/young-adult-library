@@ -29,15 +29,15 @@ _Simone Biles Rising_ documents not only Biles’ gymnastics career but her life
 Katie Walsh is a director who’s covered gymnastics since 2007 and worked with Simone Biles since 2019 (Phillips, 2024).
 
 ## Critical evaluation
-You don’t need me to tell you that Simone Biles is an inspiration. She’s modeled artistry, athleticism, and longevity over the past three Olympic games. She mentors younger athletes, and she spearheaded a sea change in the culture around mental health and gymnastics. I’d heard about her status in the Larry Nassar trial, but she overcame even more childhood trauma than I realized.
+You don’t need me to tell you that Simone Biles is an inspiration. She modeled artistry, athleticism, and longevity at the past three Olympic games. She mentors younger athletes, and she spearheaded a sea change in the culture around mental health and gymnastics.
 
 The beauty of this documentary is that it’s not just about Biles. It shows her family watching the Tokyo games on TV, and her mother Nellie braiding her hair when she starts going back to the gym. Her husband, NFL athlete Jonathan Owens, celebrates her success every chance he gets. I hadn’t really thought about how much of this was missing at the 2020 games; because of the COVID-19 pandemic, Biles was deprived of the network that kept her safe. This series is about family and community as much as it is about mental health and sports. It’s worth a watch.
 
 ## Library program
-_Bedazzled inspiration._ Simone Biles has a tattoo quoting a Maya Angelou poem: “And Still I Rise.” What writers, athletes, or famous people inspire you? Screen an episode of _Simone Biles Rising,_ then let teens decorate pre-made journals with quotes and images that keep them going. Provide rhinestones, glitter, and ribbons for extra fun.
+_Inspiration jar._ Simone Biles has a tattoo quoting a Maya Angelou poem: “And Still I Rise.” Screen an episode of _Simone Biles Rising,_ then let teens look for quotes from writers, athletes, and other famous people who inspire them. Decorate small index cards with quotes and images that teens can reach for when they’re feeling down, then put cards jars or boxes that teens can take home. Provide materials like rhinestones, glitter, and ribbons to decorate jars.
 
 ## Speed-round ~~book~~ series talk
-Simone Biles surprised spectators around the world when she stepped down from the 2020 Olympics. _Simone Biles Rising_ takes us behind the scenes of her decision, interviewing her mom, husband, teammates, and iconic gymnasts like Betty Okino and Dominique Dawes. Biles recovers mentally and physically, and by the end of the short documentary series, we watch her inspiring return to the Olympic stage.
+Simone Biles surprised spectators around the world when she stepped down from the 2020 Olympics. _Simone Biles Rising_ takes us behind the scenes of her decision, interviewing her mom, husband, teammates, and iconic gymnasts like Betty Okino and Dominique Dawes. We watch Biles recover mentally and physically, and by the end of the short documentary series, she returns to the Olympic stage.
 
 ## Potential challenges
 In the series, Simone Biles speaks against sexual abuse and challenges beauty standards in gymnastics that were built around white women. More recently, she called out Riley Gaines for her transphobic views (Dye, 2025). Biles’ story of mental health may be challenged or seen as weak, but her record speaks for itself: True champions stand up for themselves and their communities.

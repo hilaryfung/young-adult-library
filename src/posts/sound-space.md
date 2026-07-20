@@ -35,7 +35,7 @@ The reporting isn’t particularly polished. In one episode, Maritza asked peopl
 ## Library program
 _Podcast circle._ With contemporary technology, podcasts can come together surprisingly quickly. Listen to a few episodes of _Sound Space’s_ [2024 season](https://www.chapter510.org/tales) with a group of teens. Then, brainstorm topics in the theme of surviving high school. Identify the group’s favorite topic, then break teens into pairs, or groups of three if necessary. Ask each pair to create a one- to three-minute recording on the topic. At the end, seat teens in a circle and play each recording for a live “podcast” experience.
 
-## Speed-round book talk
+## Speed-round ~~book~~ podcast talk
 In _Sound Space_, teens talk about the issues really on their minds. One high schooler asks if robots will take everyone’s jobs by the time they graduate. Another explores the relationship between grades, tests, and genuine learning. From mental resilience to internet queer culture to bullying, every episode delivers a short, cleanly produced nugget on a relevant topic.
 
 ## Potential challenges

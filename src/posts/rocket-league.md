@@ -41,7 +41,7 @@ _Rocket League World Cup_. Host a videogame tournament with international flair.
 
 Serve snacks representing a few of the countries. Teens can peruse a book display about soccer and cars, but they’ll likely want to spectate the whole time. This program is primarily a fun way to draw teens to the library, but it also teaches a bit of world geography and sportsmanship.
 
-## Speed-round book talk
+## Speed-round ~~book~~ game talk
 Personally, all I needed to hear was that you’re a car playing soccer. If you need more convincing, think state-of-the art graphics, social features, and fast-paced sports action. _Rocket League_ is easy to learn, but its challenges scale infinitely, so — as with the beautiful game itself — the fun never ends.
 
 ## Potential challenges
