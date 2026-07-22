@@ -27,9 +27,9 @@ This is the Belén family — rooted in the small, fictional Dominican beach tow
 Camille Gomera-Tavarez is an Afro-Dominican writer and designer from New Jersey (Levine Querido, n.d.). _High Spirits_ was her debut; she published _The Girl, the Ring, & the Baseball Bat_ in 2024.
 
 ## Critical evaluation
-I tried at first to understand how each Belén’s story fit with the others. I referred to the hand-drawn family tree at the beginning of the book. I read lines of Dominican Spanish slowly, trying not to drop any meaning. It wasn’t until I loosened my grip that I started to get _High Spirits_ — to feel the powerful sounds, scenes, and characters washing over me like salty beach waves. 
+I tried at first to understand how each Belén’s story fit with the others. I flipped between stories and referred to the hand-drawn family tree at the front of the book. It wasn’t until I relaxed my grip that I started to get _High Spirits_ — to feel the powerful sounds, scenes, and characters washing over me like salty beach waves. 
 
-Sensory vignettes drive the book. A thumping discoteca, a barbershop contest of machismo, the glow of a movie theater where a New Jersey high schooler skips class. Hard realities rear their heads, too. A gun threat puts the high school on lockdown; an American teen struggles to understand the game of chance that her Dominican cousin plays to obtain a travel visa. 
+Sensory vignettes drive the work. A thumping discoteca, a barbershop contest of machismo, the glow of a movie theater where a New Jersey high schooler skips class. Hard realities rear their heads, too. A gun threat puts the high school on lockdown; an American teen struggles to understand the game of chance that her Dominican cousin plays to obtain a travel visa. 
 
 Funny, strange, and heartfelt, these stories took me to my childhood. I thought of myself visiting the foreign country that was supposed to be my motherland, piecing together my identity through imperfect observation. Like a memory, my experience of _High Spirits_ was hazy, but it was magical.
 
