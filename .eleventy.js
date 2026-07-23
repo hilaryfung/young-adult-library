@@ -11,9 +11,13 @@ module.exports = function (eleventyConfig) {
         d = b.data.title;
       if (c.startsWith("The ")) {
         c = c.split("The ").pop()
+      } else if (c.startsWith("A ")) {
+        c = c.split("A ").pop()
       }
       if (d.startsWith("The ")) {
         d = d.split("The ").pop()
+      } else if (d.startsWith("A ")) {
+        d = d.split("A ").pop()
       }
       return c.localeCompare(d);
     });
