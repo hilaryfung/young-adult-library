@@ -18,7 +18,7 @@ None as of publication
 Age 14 and up.
 
 ## Summary
-In her debut EP, Leyla Ebrahimi sings, shouts, and wails her way through heartbreak. She yearns desperately on the first track — “Maybe in another life, I'll get to have you” — then admits she was wrong on the third — “I’m so messed up baby / I shouldn’t have kept you here.”
+In her debut EP, Leyla Ebrahimi sings her way through heartbreak. She yearns desperately on the first track — “Maybe in another life, I'll get to have you” — then admits she was wrong on the third — “I’m so messed up baby / I shouldn’t have kept you here.”
 
 As she moves through stages of grief, Ebrahimi employs a variety of musical styles, flowing through dreamy synth pop, rock, and indie fuzz. She worked with Alexander 23 and Shane Pielocik on the release (Marotta, 2026).
 
@@ -35,7 +35,7 @@ _Mix your own track._ Ebrahimi combines a variety of styles in her EP. Give atte
 _Planet You Forgot Me_ is an electrifying debut. In six short tracks, Leyla Ebrahimi employs warm vocals and fun, powerful instrumentals to take us on the rollercoaster of her heartbreak. The resulting EP a soundtrack for cathartic release — something I definitely needed as a teen.
 
 ## Potential challenges
-You don’t have to listen too closely to understand that _Planet You Forgot Me_ is about queer love, which is often challenged at libraries. Like all other queer media, it should be defended. The EP may be categorized as adult media for its profanity and intense themes. 
+You don’t have to listen too closely to understand that _Planet You Forgot Me_ is about queer love, which is often challenged at libraries. Like all other queer media, it should be defended.
 
 ## Reason for inclusion
 I find musical debuts so refreshing and inspiring; one of my reasons for inclusion is simply that the release feels so new. It’s also got an angsty feel, a quality of experimentation or exploration that I associate with my teen years. “I think that when I came out a few years ago, I had a personal crisis in terms of my style and what I wear based on how I was feeling sexuality-wise,” Ebrahimi said (Townsel). “I would say, like my music, my personal style is ever-changing, and there is no way of knowing what direction it will shift to.”
