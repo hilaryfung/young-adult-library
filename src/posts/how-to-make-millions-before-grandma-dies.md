@@ -44,7 +44,7 @@ When M’s grandmother is diagnosed with cancer, he moves into her Bangkok China
 There’s a passing mention of OnlyFans, a bit of crude grandma humor, and Chinese Buddhist practice. But I don’t anticipate serious challenges to this family-friendly film.
 
 ## Reason for inclusion
-The collection wouldn’t be complete without a movie that you can watch when you need a good cry. I’m also glad to include M’s story as a picture of growth and sacrifice.
+Sometimes you just need a good cry. This film helps, and I’m also glad to include M’s story as a picture of growth and sacrifice.
 
 ## Extra!
 ★ Watch the official trailer…
