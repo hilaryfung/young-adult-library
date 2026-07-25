@@ -46,7 +46,7 @@ _Local relations._ Indigenous culture is place-based, and the best way to progra
 What does Indigenous resistance have to do with ICE? Do federal DEI policies affect tribal colleges and universities? Why is humor such a big part of Native culture? Whether you’re Native or not, listen to _All My Relations_ to understand the biggest issues affecting Indigenous people today.
 
 ## Potential challenges
-Indigenous media is often targeted for banning (Cala et al., 2024). _All My Relations_ is likely to be no different, especially because it discusses intersecting issues such as immigration, sexuality, and environmental justice. The podcast deserves to be defended, as it is a critical tool for teens to hear new perspectives and understanding contemporary society.
+Indigenous media is often targeted for censorship (Cala et al., 2024). _All My Relations_ is likely to be no different, especially because it discusses intersecting issues such as immigration, sexuality, and environmental justice. The podcast deserves to be defended, as it is a critical tool for teens to hear new perspectives and understanding contemporary society.
 
 ## Reason for inclusion
 California is home to more than 100 tribal communities (California Tribal Communities, n.d.). This podcast is an accessible tool for both Native and non-Native teens to learn about Indigenous life.
