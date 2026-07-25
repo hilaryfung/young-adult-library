@@ -6,7 +6,7 @@ creditUrl: https://www.abebooks.com/Estela-Undrowning-Pe%C3%B1a-Govea-Ren%C3%A9-
 postDate: July 17, 2026
 format: Book
 author: René Peña-Govea
-bibliographicData: ['ISBN: 9780063429956', 'Quill Tree Books, an imprint of HarperCollins Publishers, 2026']
+bibliographicData: ['ISBN: 9780063429956', 'Quill Tree Books, 2026']
 publicationYear: 2026
 genreStatement: <em>Estela, Undrowning</em> is a young adult book of realistic fiction.
 genreTags: Fiction, Poetry and verse, Romance
@@ -69,4 +69,4 @@ Markham, M., & Friedman, J. (2026, June 11). _Rising anti-LGBTQ+ censorship effo
 
 Peña-Govea, R. (2026). _Estela, Undrowning._ Quill Tree Books.
 
-Steare, T., Gutiérrez Muñoz, C., Sullivan, A., & Lewis, G. (2023). The association between academic pressure and adolescent mental health problems: A systematic review. _Journal of Affective Disorders, 339,_ 302–317. [https://doi.org/10.1016/j.jad.2023.07.028](https://doi.org/10.1016/j.jad.2023.07.028)
+Steare, T., Gutiérrez Muñoz, C., Sullivan, A., & Lewis, G. (2023). The association between academic pressure and adolescent mental health problems: A systematic review. _Journal of Affective Disorders, 339,_ 302–317. [https://doi.org/10.1016/j.jad.2023.07.028](https://doi.org/10.1016/j.jad.2023.07.028)f
