@@ -13,7 +13,7 @@ genreTags: Fiction, Anthologies and short stories, Fantasy and magical realism, 
 ---
 
 ## Awards and honors
-* Honor, Pura Belpre Award, [2023](https://www.ala.org/sites/default/files/2025-09/belpre_winners_coms_1996-to-present.pdf)
+* Honor, Pura Belpré Award, [2023](https://www.ala.org/sites/default/files/2025-09/belpre_winners_coms_1996-to-present.pdf)
 
 ## Reading level and interest level
 Ages 12 to 18 in the [Library of Congress](https://lccn.loc.gov/2021943709) catalog.
