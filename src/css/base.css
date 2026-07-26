@@ -34,6 +34,7 @@ figure {
 /* Typography */
 
 body {
+  color: #111;
   font-family: "Figtree", sans-serif;
   font-optical-sizing: auto;
   font-weight: <weight>;
@@ -69,6 +70,11 @@ li {
 
 a {
   color: #28a0bc;
+}
+
+.spoiler {
+  background-color: #111;
+  cursor: pointer;
 }
 
 /* Homepage */
@@ -159,7 +165,7 @@ header {
   text-transform: uppercase;
 }
 
-.post__diptych {
+.post__diptych, .post__triptych {
   width: 100%;
 }
 
@@ -167,7 +173,11 @@ header {
   width: 50%;
 }
 
-.post__diptych img {
+.post__triptych figure {
+  width: 33.3333%;
+}
+
+.post__diptych img, .post__triptych img {
   display: block;
   width: 100%;
 }
