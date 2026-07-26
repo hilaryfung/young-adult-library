@@ -27,7 +27,7 @@ In graphic novel format, Abdelrazaq shows us elements of a normal boyhood — Ah
 Leila Abdelrazaq is a Palestinian author, artist, and organizer (Abdelrazaq, n.d.). She’s pursuing a Ph.D. in art history and practice at UC San Diego. 
 
 ## Critical evaluation
-Abdelrazaq draws from rich Palestinian visual tradition in _Baddawi._ On the cover of the book, an illustration of Ahmad faces away from the reader, a nod to Naji al-Ali’s Handala. Tatreez patterns adorn the pages, honoring traditional Palestinian embroidery. Wide panels show pairs of eyes that made me think of murals in Silwan, the Palestinian district of East Jerusalem.
+Abdelrazaq draws from rich Palestinian visual tradition in _Baddawi._ On the cover of the book, an illustration of Ahmad faces away from the reader, a nod to Naji al-Ali’s Handala. Tatreez patterns adorn the pages, honoring traditional Palestinian embroidery.
 
 These powerful symbols convey the stakes that are always on Ahmad’s mind, even as he goes through the mundane tasks of teenage life. He plays chess on a board that blends into a keffiyeh pattern; he swims in a sea that swirls with bombs and warplanes. Abdelrazaq draws bold, black-and-white shapes with only a couple levels of hatched midtones, creating surreal drama without much graphic violence.
 
