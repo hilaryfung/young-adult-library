@@ -31,7 +31,7 @@ Abdelrazaq draws from rich Palestinian visual tradition in _Baddawi._ On the cov
 
 These powerful symbols convey the stakes that are always on Ahmad’s mind, even as he goes through the mundane tasks of teenage life. He plays chess on a board that blends into a keffiyeh pattern; he swims in a sea that swirls with bombs and warplanes. Abdelrazaq draws bold, black-and-white shapes with only a couple levels of hatched midtones, creating surreal drama without much graphic violence.
 
-I’m most impressed by the story itself. Conversations between author and father (Scott, 2026) resulted in sharply detailed vignettes, and this oral history — this work of memory — makes _Baddawi_ an exemplar of the graphic novel format.
+I’m most impressed by the story itself. Conversations between author and father (Scott, 2026) resulted in sharply detailed vignettes, and this oral history — this labor of memory — makes _Baddawi_ an exemplar of the graphic novel format.
 
 ## Library program
 _Family archive._ Teens are likely to carry a lot of memories on their phones’ camera rolls. Invite them to bring photos and other items of personal or family significance — print or digital —  to the library. Help them print photos and create personal archives, writing about each item’s significance in a scrapbook or blog.
