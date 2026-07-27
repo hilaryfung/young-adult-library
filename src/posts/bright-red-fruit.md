@@ -16,10 +16,10 @@ genreTags: Fiction, Diasporic literature, Poetry and verse
 * Honor, Michael L. Printz Award, [2025](https://www.ala.org/news/2025/01/brownstone-wins-2025-printz-award)
 
 ## Reading level and interest level
-Ages 13-18, per [Kirkus](https://www.kirkusreviews.com/book-reviews/safia-elhillo/bright-red-fruit/)
+Ages 13 to 18, per [Kirkus](https://www.kirkusreviews.com/book-reviews/safia-elhillo/bright-red-fruit/)
 
 ## Plot summary 
-Samira Abdullahi’s Sudanese American community just wants to keep her safe. That’s what her mother says when she bans her from talking to boys at Sunday Arabic school, from wearing lipstick and crop tops, from going to pool parties with her best friends Tamadur and Lina. “People will talk,” her mom says. And they do.
+Samira Abdullahi’s Sudanese American community just wants to keep her safe. That’s what her mother says when she bans her from talking to boys at Sunday Arabic school, from wearing lipstick and crop tops, from going to pool parties with her best friends Tamadur and Lina. “People will talk,” her mother says. And they do.
 
 So, Samira’s mom grounds her for the summer, leaving her with only her computer and poetry workshop, which her Aunt Aida already paid for. Lonely and ashamed, Samira develops an online relationship with an older poet, Horus, who at first showers her with affection. Gradually, Horus becomes more controlling and Samira starts keeping secrets, even from Tamadur, Lina, and her new poetry workshop friends.
 
@@ -31,7 +31,7 @@ It felt awful, painful to watch 16-year-old Samira fall for Horus. I thought so 
 
 I loved the other characters, too. They were always present; even as Samira sank, she was never truly isolated. She had Tamadur and Lina, best friends who knew her better than she knew herself. She had role models in Farah and Aunt Aida, women who made independent choices but never abandoned their communities. She had Gabriel, a new friend with whom she could talk craft. She had her mother. Even at their worst, Samira and her mother had the strongest of loving bonds.
 
-In workshop, Farah teaches her students to write not for sense, but for sensation. Elhillo does this to exquisite effect, turning a cell phone into a glass windowpane, a friend’s exasperation into the scrape of metal chair legs against hard floor. She narrates the audiobook herself, testing my small Bluetooth speaker’s capacity for song and rhythm. I didn’t mind as she read every username in the group chat; in _Bright Red Fruit_, even Farah’s email signature is a poem.
+In workshop, Farah teaches her students to write not for sense, but for sensation. Elhillo does this to exquisite effect, turning a cell phone into a glass windowpane, a friend’s exasperation into the scrape of metal chair legs against hard floor. She narrates the audiobook herself, testing the limits of my mini Bluetooth speaker. I didn’t mind as she read every username in the group chat; in _Bright Red Fruit_, even Farah’s email signature is a poem.
 
 ## Library program
 _Samira’s workshop._ Samira has achieved what she always wanted. She has moved to New York, published her poetry, and now she’s teaching her own workshop. In small groups, discuss work that inspired Gabriel and Samira, including poetry by Kamau Brathwaite, Kwame Dawes, Natalie Diaz, Aracelis Girmay, Joyce Mansour, and Patricia Smith. Then, ask participants to walk through the library, or in a small radius around the building, noting at least one observation from each of their five senses. Return for a free write and sharing session.

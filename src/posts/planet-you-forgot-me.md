@@ -6,7 +6,7 @@ creditUrl: https://music.apple.com/us/album/planet-you-forgot-me-ep/6770774688
 postDate: June 14, 2026
 format: MUSICAL RELEASE (EP)
 author: Leyla Ebrahimi
-bibliographicData: ['6 songs, 21 minutes', 'Deerfield Records/Interscope Records; June 5, 2026']
+bibliographicData: ['6 tracks, 21 minutes', 'Deerfield Records/Interscope Records; June 5, 2026']
 publicationYear: 2026
 genreTags: Alternative, Rock, Pop
 ---
