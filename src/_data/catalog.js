@@ -69,6 +69,12 @@ module.exports = () => {
       })
     }
   })
+  bookGenres.sort((a, b) => {
+    return a.localeCompare(b)
+  })
+  audioVisualGenres.sort((a, b) => {
+    return a.localeCompare(b)
+  })
 
   return { 
     itemsByTitle,
