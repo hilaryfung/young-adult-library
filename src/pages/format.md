@@ -5,22 +5,82 @@ navText: Format
 
 # Format index
 
-## Books - audio
+## Books
 
-## Books - prose and verse in print
+<ul>
+{% for item in catalog.itemsByTitle %}
+  {% if item.Format == "Book" %}
+    <li><a href="{{ item.Slug | url }}"><em>{{ item.Title }}</em></a> by {{ item["Author for Title Index"] }}</li>
+  {% endif %}
+{% endfor %}
+</ul>
 
-* <a href="{{ '/light-from-uncommon-stars' | url }}">_Light From Uncommon Stars_</a> by Ryka Aoki
+### Audiobooks
 
-## Books - graphic novels in print
+<ul>
+{% for item in catalog.itemsByTitle %}
+  {% if item.Format == "Audiobook" %}
+    <li><a href="{{ item.Slug | url }}"><em>{{ item.Title }}</em></a> by {{ item["Author for Title Index"] }}</li>
+  {% endif %}
+{% endfor %}
+</ul>
+
+### Graphic novels
+
+<ul>
+{% for item in catalog.itemsByTitle %}
+  {% if item.Format == "Graphic novel" %}
+    <li><a href="{{ item.Slug | url }}"><em>{{ item.Title }}</em></a> by {{ item["Author for Title Index"] }}</li>
+  {% endif %}
+{% endfor %}
+</ul>
 
 ## Films
 
+<ul>
+{% for item in catalog.itemsByTitle %}
+  {% if item.Format == "Film" %}
+    <li><a href="{{ item.Slug | url }}"><em>{{ item.Title }}</em></a></li>
+  {% endif %}
+{% endfor %}
+</ul>
+
 ## Musical releases
 
-* <a href="{{ '/planet-you-forgot-me' | url }}">_Planet You Forgot Me_</a> by Leyla Ebrahimi
+<ul>
+{% for item in catalog.itemsByTitle %}
+  {% if item.Format == "Musical release" %}
+    <li><a href="{{ item.Slug | url }}"><em>{{ item.Title }}</em></a> by {{ item["Author for Title Index"] }}</li>
+  {% endif %}
+{% endfor %}
+</ul>
 
 ## Podcasts
 
+<ul>
+{% for item in catalog.itemsByTitle %}
+  {% if item.Format == "Podcast" %}
+    <li><a href="{{ item.Slug | url }}"><em>{{ item.Title }}</em></a></li>
+  {% endif %}
+{% endfor %}
+</ul>
+
 ## Television series
 
+<ul>
+{% for item in catalog.itemsByTitle %}
+  {% if item.Format == "Television series" %}
+    <li><a href="{{ item.Slug | url }}"><em>{{ item.Title }}</em></a></li>
+  {% endif %}
+{% endfor %}
+</ul>
+
 ## Videogames
+
+<ul>
+{% for item in catalog.itemsByTitle %}
+  {% if item.Format == "Videogame" %}
+    <li><a href="{{ item.Slug | url }}"><em>{{ item.Title }}</em></a></li>
+  {% endif %}
+{% endfor %}
+</ul>
