@@ -8,18 +8,6 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addWatchTarget("./src/images/");
   eleventyConfig.addWatchTarget("./src/js/");
 
-  eleventyConfig.addDataExtension("csv", (contents) => {
-    const records = parse(contents, {
-      columns: true,
-      skip_empty_lines: true,
-      relax_quotes: true,
-      delimiter: ",",
-      trim: true,
-    });
-
-    return records;
-  });
-
   eleventyConfig.addCollection('postsByTitle', collection => {
     let postsByTitle = collection.getFilteredByTag('posts');
     postsByTitle.sort((a, b) => {
