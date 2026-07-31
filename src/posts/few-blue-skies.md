@@ -47,7 +47,7 @@ In terms of sex, drugs, profanity, and violence, _Few Blue Skies_ is one of the 
 ## Reason for inclusion
 I originally chose this title for its discussion of youth action and environmental justice. Now that I’ve read the book, I’m also glad to include it for its themes about relationships and community survival.
 
-## Extra!
+## Dive deeper!
 ★ Watch a short KPBS news clip about Amazon warehouses in Nueva Esperanza, Tijuana.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bHXM-lIzqZ0?si=mGBaDZiMaxBDVvel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
