@@ -13,6 +13,15 @@ module.exports = () => {
     trim: true
   })
 
+  // sort items alphabetically by author
+  let itemsByAuthor = records;
+  itemsByAuthor.sort((a, b) => {
+    let c = a["Author for Author Index"],
+      d = b["Author for Author Index"];
+    return c.localeCompare(d)
+  })
+
+  // sort items alphabetically by title
   let itemsByTitle = records;
   itemsByTitle.sort((a, b) => {
     let c = a.Title,
@@ -28,17 +37,43 @@ module.exports = () => {
       d = d.split("A ").pop()
     }
     return c.localeCompare(d)
-  });
+  })
 
-  let itemsByAuthor = records;
-  itemsByAuthor.sort((a, b) => {
-    let c = a["Author for Author Index"],
-      d = b["Author for Author Index"];
-    return c.localeCompare(d)
+  // create a genre array within each item
+  itemsByTitle.forEach(item => {
+    let genreArray = parse(item.Genre, {
+      skip_empty_lines: true,
+      relax_quotes: true,
+      delimiter: ",",
+      trim: true
+    })
+
+    item.genreArray = genreArray[0]
+  })
+
+  // create two arrays of unique genres
+  let bookGenres = [],
+    audioVisualGenres = [];
+  itemsByTitle.forEach(item => {
+    if (item.Format === "Book" || item.Format == "Graphic novel" || item.Format == "Audiobook") {
+      item.genreArray.forEach(genre => {
+        if (!bookGenres.includes(genre)) {
+          bookGenres.push(genre)
+        }
+      })
+    } else {
+      item.genreArray.forEach(genre => {
+        if (!audioVisualGenres.includes(genre)) {
+          audioVisualGenres.push(genre)
+        }
+      })
+    }
   })
 
   return { 
     itemsByTitle,
-    itemsByAuthor
+    itemsByAuthor,
+    bookGenres,
+    audioVisualGenres
   }
 }
