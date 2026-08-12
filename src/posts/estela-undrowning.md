@@ -56,8 +56,7 @@ I also included this book because it shows how racism persists, even in diverse,
     <img src="{{ '/images/borderlands.jpg' | url }}" class="flexbox__image">
     <figcaption><a href="https://www.auntlute.com/borderlands">Aunt Lute</a></figcaption>
   </figure>
-  <p>Read <em>Borderlands/La Frontera: The New Mestiza</em> by Gloria Anzaldúa, the book that inspires Estela to finally join forces with the Coalition.
-</p>
+  <p>★ Read <em>Borderlands/La Frontera: The New Mestiza</em> by Gloria Anzaldúa, the book that inspires Estela to finally join forces with the Coalition.</p>
 </div>
 
 ## References
