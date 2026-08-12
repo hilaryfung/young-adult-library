@@ -1,27 +1,30 @@
-Slug,Title,Author for Title Index,Author for Author Index,Year,Format,Genre,Stickers
-/babel/,"Babel, or the Necessity of Violence: An Arcane History of the Oxford Translators’ Revolution",R. F. Kuang,"Kuang, R. F.",2022,Book,"Fiction, Diasporic literature, Fantasy and magical realism, Historical fiction",Set in England
-/baddawi/,Baddawi,Leila Abdelrazaq,"Abdelrazaq, Leila",2015,Graphic novel,"Nonfiction, ""Biographies, autobiographies, and memoirs"", ""Comics, graphic novels, and manga"", Coming of age, Diasporic literature, History (nonfiction)",Set in Lebanon
-/catalog-of-burnt-objects/,A Catalog of Burnt Objects,Shana Youngdahl,"Youngdahl, Shana",2025,Book,"Fiction, Realistic fiction",Set in California
-/estela-undrowning/,"Estela, Undrowning",René Peña-Govea,"Peña-Govea, René",2026,Book,"Fiction, Poetry and verse, Romance",Set in California
-/few-blue-skies/,Few Blue Skies,Carolina Ixta,"Ixta, Carolina",2026,Book,"Fiction, ""Climate fiction and dystopian fiction"", ""Science fiction and speculative fiction"", Romance",Set in California
-/high-spirits/,High Spirits ,Camille Gomera-Tavarez,"Gomera-Tavarez, Camille",2022,Book,"Fiction, Anthologies and short stories, Diasporic literature",Set in the Dominican Republic
-/i-want-to-be-a-wall/,I Want To Be A Wall,Honami Shirono,"Shirono, Honami",2022,Graphic novel,"Fiction, ""Comics, graphic novels, and manga"", Works in translation, LGBTQ+ literature",Set in Japan
-/light-from-uncommon-stars/,Light From Uncommon Stars,Ryka Aoki,"Aoki, Ryka",2021,Book,"Fiction, Science fiction and speculative fiction, Fantasy and magical realism, Action and adventure, LGBTQ+ literature, Romance, Coming of age",Set in California
-/somadina/,Somadina,Akwaeke Emezi,"Emezi, Akwaeke",2025,Book,"Fiction, Action and adventure, Fantasy and magical realism, Coming of age",Set in West Africa
-/bodyguard-unit/,"The Bodyguard Unit: Edith Garrud, Women's Suffrage, and Jujitsu",Clément Xavier,"Xavier, Clément",2023,Graphic novel,"Nonfiction, ""Comics, graphic novels, and manga"", ""Biographies, autobiographies, and memoirs"", Works in translation, History (nonfiction)",Set in England
-/luis-ortega-survival-club/,The Luis Ortega Survival Club,Sonido Reyes,"Reyes, Sonido",2023,Book,"Fiction, LGBTQ+ literature, Romance",Set in California
-/this-place/,This Place: 150 Years Retold,"Kateri Akiwenzie-Damm, Chelsea Vowel, Katherena Vermette, Jen Storm, Niigaanwewidam James Sinclair, David Alexander Robertson, Richard Van Camp, Brandon Mitchell, Sonny Assu, Rachel Qitsualik-Tinsley, and Sean Qitsualik-Tinsley","Akiwenzie-Damm, Kateri",2019,Graphic novel,"Fiction, ""Comics, graphic novels, and manga"", Historical fiction, Anthologies and short stories",Set in Canada
-/victory-stand/,Victory. Stand!: Raising My Fist for Justice,"Tommie Smith, Derrick Barnes, and Dawud Anyabwile","Smith, Tommie; Barnes, Derrick; Anyabwile, Dawud",2022,Graphic novel,"Nonfiction, ""Comics, graphic novels, and manga"", ""Biographies, autobiographies, and memoirs"", Sports, History (nonfiction)",Set in California
-/accountable/,Accountable: The True Story of a Racist Social Media Account and the Teenagers Whose Lives It Changed,Dashka Slater,"Slater, Dashka",2023,Audiobook,"Nonfiction, ""Mystery, thriller, and true crime""",Set in California
-/bright-red-fruit/,Bright Red Fruit,Safia Elhillo,"Elhillo, Safia",2024,Audiobook,"Fiction, Diasporic literature, Poetry and verse",Own voice
-/everything-we-never-had/,Everything We Never Had,Randy Ribay,"Ribay, Randy",2024,Audiobook,"Fiction, Historical fiction, Diasporic literature, Realistic fiction",Set in California
-/black-burns-fast/,Black Burns Fast,FALSE,"Asanda, Sandulela (Director)",2025,Film,"Comedy, Drama, Romance",Set in South Africa
-/how-to-make-millions-before-grandma-dies/,How To Make Millions Before Grandma Dies,FALSE,"Boonnitipat, Pat (Director)",2024,Film,"Drama, Family drama",Set in Thailand
-/simone-biles-rising/,Simone Biles Rising,FALSE,"Walsh, Katie (Director)",2024,Television series,"Documentary, Sports",
-/cyberpunk-edgerunners/,Cyberpunk: Edgerunners,FALSE,"Jaki, Rafał (Creator)",2022,Television series,"Anime, Cyberpunk, Dystopian fiction, Science fiction and speculative fiction",Set in California
-/planet-you-forgot-me/,Planet You Forgot Me,Leyla Ebrahimi,"Ebrahimi, Leyla",2026,Musical release,"Alternative, Rock, Pop",
-/astro-bot/,Astro Bot,FALSE,Team Asobi (Developer),2024,Videogame,"Sandbox, Single-player game",
-/rocket-league/,Rocket League,FALSE,Psyonix (Developer),2015,Videogame,"Sports, Single-player game, Multi-player game",
-/sound-space/,Sound Space from Chapter 510,FALSE,Chapter 510,2024,Podcast,"Journalism and reporting, Creative non-fiction",Set in California
-/all-my-relations/,All My Relations,FALSE,"Wilbur, Matika; Lane, Temryss (Hosts)",2019,Podcast,"Nonfiction, Culture and society, Talk show",
-/venba/,Venba,FALSE,Visai Games (Developer),2023,Videogame,"Cooking game, Diasporic media, Narrative game, Puzzle game",
+Done,Slug,Title,Author for Title Index,Author for Author Index,Year,Format,Genre,Stickers
+TRUE,/babel/,"Babel, or the Necessity of Violence: An Arcane History of the Oxford Translators’ Revolution",R. F. Kuang,"Kuang, R. F.",2022,Book,"Fiction, Diasporic literature, Fantasy and magical realism, Historical fiction",Set in England
+TRUE,/baddawi/,Baddawi,Leila Abdelrazaq,"Abdelrazaq, Leila",2015,Graphic novel,"Nonfiction, ""Biographies, autobiographies, and memoirs"", ""Comics, graphic novels, and manga"", Coming of age, Diasporic literature, History (nonfiction)",Set in Lebanon
+TRUE,/catalog-of-burnt-objects/,A Catalog of Burnt Objects,Shana Youngdahl,"Youngdahl, Shana",2025,Book,"Fiction, Realistic fiction",Set in California
+TRUE,/estela-undrowning/,"Estela, Undrowning",René Peña-Govea,"Peña-Govea, René",2026,Book,"Fiction, Poetry and verse, Romance",Set in California
+TRUE,/few-blue-skies/,Few Blue Skies,Carolina Ixta,"Ixta, Carolina",2026,Book,"Fiction, ""Climate fiction and dystopian fiction"", ""Science fiction and speculative fiction"", Romance",Set in California
+TRUE,/high-spirits/,High Spirits ,Camille Gomera-Tavarez,"Gomera-Tavarez, Camille",2022,Book,"Fiction, Anthologies and short stories, Diasporic literature",Set in the Dominican Republic
+TRUE,/i-want-to-be-a-wall/,I Want To Be A Wall,Honami Shirono,"Shirono, Honami",2022,Graphic novel,"Fiction, ""Comics, graphic novels, and manga"", Works in translation, LGBTQ+ literature",Set in Japan
+TRUE,/light-from-uncommon-stars/,Light From Uncommon Stars,Ryka Aoki,"Aoki, Ryka",2021,Book,"Fiction, Science fiction and speculative fiction, Fantasy and magical realism, Action and adventure, LGBTQ+ literature, Romance, Coming of age",Set in California
+TRUE,/somadina/,Somadina,Akwaeke Emezi,"Emezi, Akwaeke",2025,Book,"Fiction, Action and adventure, Fantasy and magical realism, Coming of age",Set in West Africa
+TRUE,/luis-ortega-survival-club/,The Luis Ortega Survival Club,Sonido Reyes,"Reyes, Sonido",2023,Book,"Fiction, LGBTQ+ literature, Romance",Set in California
+TRUE,/victory-stand/,Victory. Stand!: Raising My Fist for Justice,"Tommie Smith, Derrick Barnes, and Dawud Anyabwile","Smith, Tommie; Barnes, Derrick; Anyabwile, Dawud",2022,Graphic novel,"Nonfiction, ""Comics, graphic novels, and manga"", ""Biographies, autobiographies, and memoirs"", Sports, History (nonfiction)",Set in California
+TRUE,/accountable/,Accountable: The True Story of a Racist Social Media Account and the Teenagers Whose Lives It Changed,Dashka Slater,"Slater, Dashka",2023,Audiobook,"Nonfiction, ""Mystery, thriller, and true crime""",Set in California
+TRUE,/bright-red-fruit/,Bright Red Fruit,Safia Elhillo,"Elhillo, Safia",2024,Audiobook,"Fiction, Diasporic literature, Poetry and verse",Own voice
+TRUE,/everything-we-never-had/,Everything We Never Had,Randy Ribay,"Ribay, Randy",2024,Audiobook,"Fiction, Historical fiction, Diasporic literature, Realistic fiction",Set in California
+TRUE,/black-burns-fast/,Black Burns Fast,FALSE,"Asanda, Sandulela (Director)",2025,Film,"Comedy, Drama, Romance",Set in South Africa
+TRUE,/how-to-make-millions-before-grandma-dies/,How To Make Millions Before Grandma Dies,FALSE,"Boonnitipat, Pat (Director)",2024,Film,"Drama, Family drama",Set in Thailand
+TRUE,/simone-biles-rising/,Simone Biles Rising,FALSE,"Walsh, Katie (Director)",2024,Television series,"Documentary, Sports",
+TRUE,/cyberpunk-edgerunners/,Cyberpunk: Edgerunners,FALSE,"Jaki, Rafał (Creator)",2022,Television series,"Anime, Cyberpunk, Dystopian fiction, Science fiction and speculative fiction",Set in California
+TRUE,/planet-you-forgot-me/,Planet You Forgot Me,Leyla Ebrahimi,"Ebrahimi, Leyla",2026,Musical release,"Alternative, Rock, Pop",
+TRUE,/astro-bot/,Astro Bot,FALSE,Team Asobi (Developer),2024,Videogame,"Sandbox game, Single-player game",
+TRUE,/rocket-league/,Rocket League,FALSE,Psyonix (Developer),2015,Videogame,"Sports, Single-player game, Multi-player game",
+TRUE,/sound-space/,Sound Space from Chapter 510,FALSE,Chapter 510,2024,Podcast,"Journalism and reporting, Creative non-fiction",Set in California
+TRUE,/all-my-relations/,All My Relations,FALSE,"Wilbur, Matika; Lane, Temryss (Hosts)",2019,Podcast,"Nonfiction, Culture and society, Talk show",
+TRUE,/venba/,Venba,FALSE,Visai Games (Developer),2023,Videogame,"Cooking game, Diasporic media, Narrative game, Puzzle game",
+FALSE,/this-place/,This Place: 150 Years Retold,"Kateri Akiwenzie-Damm, Chelsea Vowel, Katherena Vermette, Jen Storm, Niigaanwewidam James Sinclair, David Alexander Robertson, Richard Van Camp, Brandon Mitchell, Sonny Assu, Rachel Qitsualik-Tinsley, and Sean Qitsualik-Tinsley","Akiwenzie-Damm, Kateri",2019,Graphic novel,"Fiction, ""Comics, graphic novels, and manga"", Historical fiction, Anthologies and short stories",Set in Canada
+FALSE,/bodyguard-unit/,"The Bodyguard Unit: Edith Garrud, Women's Suffrage, and Jujitsu",Clément Xavier,"Xavier, Clément",2023,Graphic novel,"Nonfiction, ""Comics, graphic novels, and manga"", ""Biographies, autobiographies, and memoirs"", Works in translation, History (nonfiction)",Set in England
+FALSE,/libertad/,Libertad,Bessie Flores Zaldívar,"Zaldívar, Bessie Flores",2024,Book,"Fiction, Realistic fiction",Set in Honduras
+FALSE,/blue-island/,Blue Island,Ravyn Lenae,"Lenae, Ravyn",2026,Musical release,R&B,
+FALSE,/heavy-serenade/,Heavy Serenade,NMIXX,NMIXX,2026,Musical release,"K-Pop, Pop",
