@@ -41,7 +41,7 @@ The illustrations are colorful and dynamic; martial arts and suffragette hijinks
 _Edith and Richard’s demonstration._ In _The Bodyguard Unit,_ Edith’s friend Richard dresses up as a policeman to participate in her jujitsu demonstrations. Invite local martial artists to demonstrate their practice at the library, and discuss what constitutes self-defense.
 
 ## Speed-round book talk
-In early 1900s London, Edith Garrud trained suffragettes to defend themselves against abusive husbands, street assaults, and violent police officers. _The Bodyguard Unit_ tells her story in an action-packed graphic novel. Flip through full-color illustrations to learn about women who practiced jujitsu and hid in laundry baskets to sneak past metropolitan police — all to win the right to vote.
+In early 1900s London, Edith Garrud trained suffragettes to defend themselves against abusive husbands, street assaults, and violent police officers. _The Bodyguard Unit_ tells her story in an action-packed graphic novel. Flip through full-color illustrations to learn about women who practiced jujitsu and hid in laundry baskets to sneak past Metropolitan Police — all to win the right to vote.
 
 ## Potential challenges
 _The Bodyguard Unit_ depicts violence — mostly fists and batons, plus one gun in the hands of London police. It also carries a strong feminist theme, depicting suffragettes who supported “deeds not words.”
