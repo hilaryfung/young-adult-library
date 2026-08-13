@@ -49,10 +49,21 @@ _The Bodyguard Unit_ depicts violence — mostly fists and batons, plus one gun 
 ## Reason for inclusion
 I’d learned of the suffragette movement as well-mannered one — this graphic novel defies the stereotype. It illuminates a slice of history, and it’s fun to read.
 
-## Dive deeper! or Extra!
-★ Watch a trailer for _Suffragette,_ a 2015 film starring Carey Mulligan and Helena Bonham Carter.
+## Extra!
+★ Check out these real photos Edith Garrud in her dojo.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/056FI2Pq9RY?si=OsGAskRY68Nyqfz5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="flexbox constrained post__triptych">
+  <figure>
+    <img src="{{ '/images/edith-garrud-2.jpg' | url }}" alt="">
+    <figcaption><a href="https://en.wikipedia.org/wiki/Suffrajitsu">Wikipedia Commons</a></figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/images/edith-garrud-1.avif' | url }}" alt="">
+  </figure>
+  <figure>
+    <img src="{{ '/images/edith-garrud-3.avif' | url }}" alt="">
+  </figure>
+</div>
 
 ## References
 Xavier, C., Lugrin, L., & Ralenti, A. (2023). _The Bodyguard Unit: Edith Garrud, Women’s Suffrage, and Jujitsu._ Graphic Universe.
