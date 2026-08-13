@@ -8,7 +8,7 @@ templateEngineOverride: njk, md
 
 #### Welcome to
 
-<h1>The California Teen Library</h1>
+<h1 class="blog-title">The California Teen Library</h1>
 
 ### A collection of books, movies, shows, and more for young adults who are curious about the world.
 
