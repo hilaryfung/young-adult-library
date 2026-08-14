@@ -40,9 +40,9 @@ I hope every reader finds someone like them in this collection, whether it’s b
 </div>
 
 ## Reflection
-What a summer. I’m grateful to have read a recent selection of young adult books, which are much more diverse than the ones I had access to as a teen. As I worked my way through these novels, podcasts, movies, and shows, I saw myself in many of the stories, but I also ventured into territory that I didn’t really know. I learned about big problems that teens face today — issues like climate change, authoritarianism, and social media extremism — and I enjoyed music and video games that I never would have found, if not for this project.
+I’m grateful to have read a recent selection of young adult books, which are much more diverse than the ones I had access to as a teen. As I worked my way through these novels, podcasts, movies, and shows, I saw myself in many of the stories, but I also ventured into territory that I didn’t really know. I learned about big problems that teens face today — issues like climate change, authoritarianism, and social media extremism — and I enjoyed music and video games that I never would have found, if not for this project.
 
-In building out this blog, one of my favorite tasks was researching the authors and artists. So many of them put their life experiences — their full souls — into their work. Engaging with Sonido Reyes’ honesty, Sandulela Asanda’s humor, Carolina Ixta’s research, and Leila Abdelrazaq’s artistry, I found renewed inspiration and hope. Maybe I “came of age” a bit this summer, too.
+In building out this blog, one of my favorite tasks was researching the authors and artists. So many of them put their life experiences — their full souls — into their work. Engaging with Sonido Reyes’ honesty, Sandulela Asanda’s humor, Carolina Ixta’s research, and Leila Abdelrazaq’s artistry, I found renewed energy and inspiration. Maybe I “came of age” a bit this summer, too.
 
 ## References
 Castillo, E. D. (n.d.). _California Indian History._ California Native American Heritage Commission. Retrieved June 14, 2026, from [https://nahc.ca.gov/native-americans/california-indian-history/](https://nahc.ca.gov/native-americans/california-indian-history/)
