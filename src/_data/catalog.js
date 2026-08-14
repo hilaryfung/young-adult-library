@@ -14,7 +14,7 @@ module.exports = () => {
   })
 
   // sort items alphabetically by author
-  let itemsByAuthor = records;
+  let itemsByAuthor = records.slice();
   itemsByAuthor.sort((a, b) => {
     let c = a["Author for Author Index"],
       d = b["Author for Author Index"];
@@ -22,7 +22,7 @@ module.exports = () => {
   })
 
   // sort items alphabetically by title
-  let itemsByTitle = records;
+  let itemsByTitle = records.slice();
   itemsByTitle.sort((a, b) => {
     let c = a.Title,
       d = b.Title;

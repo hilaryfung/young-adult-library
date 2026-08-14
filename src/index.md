@@ -15,7 +15,7 @@ templateEngineOverride: njk, md
 #### Explore by
 <nav class="homepage__nav constrained">
 {%- for page in collections.pages -%}
-  <a class="button--large" href="{{ page.url | url }}">{{ page.data.navText }}</a>
+  <a class="button--large button-{{ loop.index }}" href="{{ page.url | url }}">{{ page.data.navText }}</a>
 {%- endfor -%}
 </nav>
 

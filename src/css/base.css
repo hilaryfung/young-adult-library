@@ -73,7 +73,7 @@ li {
 }
 
 a {
-  color: #28a0bc;
+  color: #0076b7;
 }
 
 .spoiler {
@@ -91,15 +91,30 @@ a {
 
 .button--large {
   align-content: center;
-  background-color: #feb82a;
   border: none;
   border-radius: 20px;
-  color: #111;
-  font-size: 1.2em;
+  color: #fff;
+  font-size: 1.4em;
   height: 60px;
   text-align: center;
   text-decoration: none;
   width: 25%;
+}
+
+.button-1 {
+  background-color: #2cb3dd;
+}
+
+.button-2 {
+  background-color: #e4523a;
+}
+
+.button-3 {
+  background-color: #5bad4d;
+}
+
+.button-4 {
+  background-color: #efa118;
 }
 
 .marquee {
