@@ -1,0 +1,25 @@
+---
+layout: base.njk
+---
+
+{% include "_nav.njk" %}
+
+{% include "_postIntro.njk" %}
+
+<main class="constrained">
+  <article>
+    <h2>Genre</h2>
+    {% if (genreStatement) %}
+      <p>{{ genreStatement | safe }}</p>
+    {% endif %}
+    <p>
+      {% for genre in genreTags.split(";") %}
+        <a href="{{ '/genre/#' + genre | slugify | url }}" class="genre-tag">{{ genre }}</a>
+      {% endfor %}
+    </p>
+
+    {{ content | safe }}
+  </article>
+</main>
+
+<script src="{{ '/js/script.js' | url }}"></script>
