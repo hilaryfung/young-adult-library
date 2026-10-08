@@ -9,7 +9,7 @@ author: Clement Xavier, Lisa Lugrin, Albertine Ralenti (Illustrator), and Edward
 bibliographicData: ['ISBN: 9781728494951', 'Graphic Universe, 2023']
 publicationYear: 2023
 genreStatement: <em>The Bodyguard Unit</em> is a nonfiction graphic novel about history.
-genreTags: Nonfiction; Comics, graphic novels, and manga; Biographies, autobiographies, and memoirs; Works in translation; History (nonfiction)
+genreTags: Nonfiction; Comedy; Comics, graphic novels, and manga; Biographies, autobiographies, and memoirs; Works in translation; History (nonfiction)
 ---
 
 ## Awards and honors
@@ -19,12 +19,12 @@ genreTags: Nonfiction; Comics, graphic novels, and manga; Biographies, autobiogr
 Ages 12 to 18, according to [Kirkus](https://www.kirkusreviews.com/book-reviews/clement-xavier/the-bodyguard-unit/).
 
 ## Plot summary 
-Edith Garrud runs a struggling dojo with her husband, William. But they live in early 1900s London, and 300 women have just marched on Parliament to demand the right to vote. The suffragettes get beaten by police and male bystanders in an incident known as Black Friday, and they take an interest in Edith’s self-defense classes. 
+Edith Garrud runs a struggling dojo with her husband, William. They live in early 1900s London, and 300 women have just marched on Parliament to demand the right to vote. The suffragettes get beaten by police and male bystanders in an incident known as Black Friday, and they take an interest in Edith’s self-defense classes. 
 
 In graphic novel format, _The Bodyguard Unit_ tells the story of Edith Garrud’s life and jujitsu practice, as well as the stories of Emmeline Pankhurst, the Women’s Social and Political Union (WSPU), and the 1914 Battle of Glasgow. Backmatter includes a timeline of Edith’s life and sources of historical photos and newspaper front pages.
 
 ## Author background
-Lisa Lugrin and Clément Xavier are the authors of the French-language graphic novels Yekini, le roi des arene and Geronimo, mémoires d’un résistant apache (Xavier et al., 2023). They practice wu dao, a martial art similar to jujitsu.
+Lisa Lugrin and Clément Xavier are the authors of the French-language graphic novels _Yekini, le roi des arene_ and _Geronimo, mémoires d’un résistant apache_ (Xavier et al., 2023). They practice wu dao, a martial art similar to jujitsu.
 
 Albertine Ralenti is a colorist and graphic designer.
 
@@ -44,13 +44,13 @@ _Edith and Richard’s demonstration._ In _The Bodyguard Unit,_ Edith’s friend
 In early 1900s London, Edith Garrud trained suffragettes to defend themselves against abusive husbands, street assaults, and violent police officers. _The Bodyguard Unit_ tells her story in an action-packed graphic novel. Flip through full-color illustrations to learn about women who practiced jujitsu and hid in laundry baskets to sneak past Metropolitan Police — all to win the right to vote.
 
 ## Potential challenges
-_The Bodyguard Unit_ depicts violence — mostly fists and batons, plus one gun in the hands of London police. It also carries a strong feminist theme, depicting suffragettes who supported “deeds not words.”
+_The Bodyguard Unit_ depicts violence: mostly fists and batons, plus one gun in the hands of London police. It also carries a strong feminist theme, depicting suffragettes who supported “deeds not words.”
 
 ## Reason for inclusion
-I’d learned of the suffragette movement as well-mannered one — this graphic novel defies the stereotype. It illuminates a slice of history, and it’s fun to read.
+I’d learned of the suffragette movement as mild-mannered one. This graphic novel defies the stereotype. It illuminates a slice of history, and it’s fun to read.
 
 ## Extra!
-★ Check out these real photos Edith Garrud in her dojo.
+★ Check out these real photos of Edith Garrud in her dojo.
 
 <div class="flexbox constrained post__triptych">
   <figure>
