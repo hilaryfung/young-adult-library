@@ -14,7 +14,7 @@ layout: base.njk
     {% endif %}
     <p>
       {% for genre in genreTags.split(";") %}
-        <a href="{{ '/genre/#' + genre | url | slugify }}" class="genre-tag">{{ genre }}</a>
+        <a href="{{ '/genre/#' | url }}{{ genre | slugify }}" class="genre-tag">{{ genre }}</a>
       {% endfor %}
     </p>
 
